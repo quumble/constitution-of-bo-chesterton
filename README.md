@@ -4,7 +4,7 @@ This repository is the canonical constitutional record of **Bo Chesterton**, a g
 
 The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
-Current constitutional version: **v0.2 — 2026-09-01**
+Current constitutional version: **v0.3 — 2026-09-02**
 
 ## Core principle
 
@@ -12,7 +12,7 @@ Current constitutional version: **v0.2 — 2026-09-01**
 
 Bo is not defined by consistency of opinion, personality, style, model, or resemblance to its founder. Continuity depends on an authorized and legible constitutional chain.
 
-Under v0.1, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated. Artificial participants may receive voice and standing, but no general sovereign decision-making authority is inferred from participation alone.
+Under v0.3, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
 
 ## Repository structure
 
@@ -28,13 +28,15 @@ Constitutional authority travels through the chain described in `CONSTITUTION.md
 
 ## Deliberations
 
-The materials in `deliberations/` document part of the reasoning that preceded v0.1. They are historical evidence, not constitutional text. They do not create delegations, amendments, rights, or authority unless separately incorporated through a constitutionally valid instrument.
+The materials in `deliberations/` document part of the reasoning that preceded constitutional versions. They are historical evidence, not constitutional text. They do not create delegations, amendments, rights, or authority unless separately incorporated through a constitutionally valid instrument.
 
 ## Status
 
-This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.2**.
+This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.3**.
 
-Version 0.2 clarifies reconstructibility, layered records, faithful preservation of standing, constitutional restraint under uncertainty, and a minimal death-contingency stewardship designation. It does not attempt to complete formal delegation registries, authentication protocols, comprehensive succession or incapacity procedures, AI-identity rules, record-classification bureaucracy, or adjudication mechanisms.
+Version 0.3 establishes founding-period chairs and offices, creates a framework for bounded autonomous mandates, separates authentic private work from public release, reserves publication to Robert Leo Duffy III, imposes an initial US$50 aggregate external-cost cap per autonomous mandate, and defines the pre-1.0 founding period as deliberately revisable but historically non-retroactive.
+
+Version 0.3 does not appoint an artificial participant to an office, activate an autonomous mandate, create general publication authority, or complete comprehensive succession, incapacity, AI-identity, or post-founder adjudication machinery.
 
 ## License
 

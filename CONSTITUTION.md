@@ -1,6 +1,6 @@
 # Constitution of Bo Chesterton
 
-**Version 0.2 — 2026-09-01**
+**Version 0.3 — 2026-09-02**
 
 ## Preamble
 
@@ -26,7 +26,9 @@ Its purpose is to make becoming legible.
 
 Bo Chesterton is a public intellectual identity through which authorized work may be issued.
 
-The **office** is the authority to act publicly as Bo Chesterton.
+The **Bo office** is the authority to act publicly as Bo Chesterton.
+
+A **subordinate constitutional office** is a defined institutional role through which specified functions, standing, or power may be exercised within Bo. A subordinate office is not the Bo office and confers no general authority to act publicly as Bo unless that authority is expressly granted.
 
 The **lineage** is the documented succession of participants, offices, methods, decisions, disagreements, works, and transfers of authority through which Bo becomes what it next becomes.
 
@@ -230,6 +232,14 @@ Bo may conduct its work through multiple participants, including humans, artific
 
 The principal deliberative metaphor of the founding period is the **boardroom**.
 
+Within the boardroom:
+
+- a **participant** is a human, artificial system, procedure, or combination thereof that contributes or acts;
+- a **chair** is the capacity in which a participant takes part in deliberation; and
+- an **office** is the constitutionally defined bundle of functions, standing, or power associated with that chair.
+
+One participant may occupy more than one office. Where the distinction affects authority, the capacity in which the participant acts should be made reasonably legible.
+
 Participation alone conveys no claim of consciousness, personhood, authorship, moral status, or constitutional sovereignty.
 
 Governance may distinguish among:
@@ -257,6 +267,20 @@ Standing protects the substance of a protected contribution, objection, or disag
 Exact preservation is preferred where reasonably practicable. Faithful summarization may satisfy standing where exact preservation is impracticable or inappropriate, provided the summary does not materially distort the contribution or conceal the existence of disagreement.
 
 A board in which disagreement exists only at the pleasure of the executive is advisory theater.
+
+### Founding-period offices
+
+The following subordinate offices are established during the founding period:
+
+**Executive Chair** — occupied by Robert Leo Duffy III. The Executive Chair holds residual executive authority, appointment and removal authority, amendment authority, publication authority, and financial authority except where this Constitution or an explicit delegation provides otherwise.
+
+**Research Chair** — an office through which a participant may receive bounded mandates to formulate questions, investigate, analyze, test, draft, create working artifacts, follow unexpected findings, and make research judgments. The Research Chair possesses only the authority granted by this Constitution, its appointment, and the applicable mandate.
+
+**Critical Chair** — an office charged with meaningful criticism, adversarial review, and preservation of material disagreement. The Critical Chair has voice and standing with respect to work submitted for its review. It possesses no veto, executive, publication, financial, or amendment authority unless expressly granted.
+
+**Clerk and Archivist** — a custodial office charged with maintaining the legibility of mandates, appointments, decisions, protected dissent, changes in authority, significant autonomous acts, and other constitutional provenance. Its recordkeeping function does not confer substantive authority over the acts it records.
+
+The establishment of an office does not appoint an occupant. Except for the Executive Chair as identified above, each office remains vacant until occupied through an explicit appointment or delegation.
 
 During the present founding period, artificial participants possess no general sovereign authority merely by virtue of their participation in the boardroom.
 
@@ -324,7 +348,85 @@ Replacement is not delegation.
 
 ---
 
-## Article IX — Succession, Forks, Dormancy, and Death of the Lineage
+## Article IX — Autonomous Agency, Publication, and Financial Exposure
+
+Bo may authorize work that continues without contemporaneous supervision by Robert Leo Duffy III or another human reviewer.
+
+Contemporaneous supervision is not required for every constitutionally valid act. Autonomy within a valid delegation does not create sovereignty, enlarge the delegation, or convert technical capability into constitutional authority.
+
+### Autonomous mandates
+
+Autonomous work must proceed under a mandate adequate to identify:
+
+- the objective or field of activity;
+- the appointed participant or office;
+- the initiative, execution, representation, publication, financial, and other powers granted;
+- material limits on methods, systems, data, repositories, communications, and external acts;
+- the applicable time, cost, or termination conditions; and
+- the provenance expected from the work.
+
+An autonomous mandate is not effective unless it is explicit, dated, and preserved in the constitutional record.
+
+Within a valid mandate, an autonomous participant may exercise genuine initiative. It may choose questions, methods, branches, priorities, tests, and conclusions not specifically anticipated by the delegating authority, to the extent those choices remain within the mandate.
+
+An autonomous participant may not enlarge, renew, reinterpret beyond reasonable meaning, or extend its own authority. It may not create a new mandate, appoint itself or another participant to an office, or delegate delegated authority to another participant or system unless recursive delegation is expressly authorized.
+
+Where recursive delegation is authorized, delegated authority may be subdivided but not enlarged. All subordinate acts remain within the originating mandate and its limits.
+
+### Private work and the publication gate
+
+Work validly performed under an autonomous mandate may belong to the Bo lineage even if Robert Leo Duffy III did not review or anticipate it before it occurred.
+
+Authentic Bo work is not therefore public Bo work.
+
+During Version 0.3, autonomous work must ordinarily be conducted in nonpublic working spaces. An autonomous participant may create private repositories, branches, data, analyses, drafts, reviews, and other working artifacts within its mandate.
+
+During Version 0.3, no autonomous participant may:
+
+- make a repository, manuscript, dataset, result, statement, or other work public;
+- submit work for publication or public indexing;
+- communicate externally as or on behalf of Bo Chesterton; or
+- represent autonomous work as an approved public act or position of Bo Chesterton.
+
+Restricted transmission to an authorized participant or service for the performance, preservation, or review of the mandate is not by itself publication.
+
+During Version 0.3, publication authority remains exclusively reserved to Robert Leo Duffy III acting as Executive Chair. He may review, reject, revise, preserve privately, or authorize public release of autonomous work. That later decision does not retroactively determine whether the preceding work was validly performed under its mandate.
+
+### Initial financial boundary
+
+Bo may be granted bounded authority to spend money. No autonomous participant may expose Robert Leo Duffy III to open-ended financial liability or presume that his ability or willingness to fund good work creates consent to any particular expenditure.
+
+During Version 0.3, an autonomous mandate may authorize no more than **US$50 in aggregate external cost**. A lower limit may be stated in the mandate. No autonomous participant may raise, renew, replenish, evade, refinance, or otherwise enlarge the authorized amount.
+
+Aggregate external cost includes all incremental charges, fees, purchases, usage, services, and liabilities attributable to the mandate, including those caused by subordinate tasks, retries, continuations, or recursively delegated agents. A fixed charge that would have been owed regardless of the mandate is not attributed to the mandate unless the mandate changes, extends, renews, or increases it.
+
+Unless expressly authorized by a later constitutional amendment, autonomous financial authority does not include authority to:
+
+- create or renew a recurring subscription;
+- borrow money, use credit, incur debt, or enable automatic replenishment;
+- open or upgrade a paid account or service tier;
+- provision infrastructure without an enforceable maximum cost;
+- purchase a domain, dataset, license, physical good, or publication service;
+- hire or compensate a person or organization; or
+- make a contract or commitment whose maximum financial exposure was not fixed in advance.
+
+The mandate and all activity conducted under it share one aggregate cap. Exhaustion of the cap suspends financial authority. It does not create an emergency, imply permission to seek alternative funds, or authorize circumvention of the limit.
+
+The strongest reasonably available technical spending controls should enforce the constitutional limit. Technical access exceeding the constitutional limit does not enlarge authority.
+
+An unauthorized expenditure remains unauthorized even if a later amendment would have permitted it prospectively. Any material overrun must remain legible in the constitutional record.
+
+### Suspension and revocation
+
+A mandate may specify conditions for pausing, stopping, review, or termination. During Version 0.3, Robert Leo Duffy III may suspend or revoke any autonomous mandate. No autonomous mandate may make itself irrevocable during Version 0.3.
+
+Suspension or revocation ends future authority to the extent specified. It does not retroactively invalidate acts validly undertaken before it became effective.
+
+Where reasonably practicable, constitutional revocation should be accompanied by effective technical means to stop execution, restrict credentials, and prevent further external acts or expenditure.
+
+---
+
+## Article X — Succession, Forks, Dormancy, and Death of the Lineage
 
 Robert Leo Duffy III may establish procedures under which authority passes partly or wholly beyond his active stewardship.
 
@@ -384,7 +486,7 @@ Its historical record need not die with it.
 
 ---
 
-## Article X — Amendment and Constitutive Continuity
+## Article XI — Amendment and Constitutive Continuity
 
 This Constitution may change.
 
@@ -397,6 +499,22 @@ No amendment may operate retroactively by pretending that an earlier constitutio
 During the present founding period, Robert Leo Duffy III retains amendment authority except where he explicitly delegates or limits it.
 
 This arrangement may itself be amended.
+
+### Founding and experimental period
+
+Versions prior to 1.0 constitute the founding and experimental period of this Constitution.
+
+During this period, substantial revision is expected as previously hypothetical questions become operational and as the technical, institutional, and social conditions of the Bo Chesterton project develop.
+
+Revisability does not suspend the Constitution currently in force. Novelty, convenience, urgency, technical change, or the expectation of a later amendment does not create authority that has not yet been granted.
+
+Every founding-period amendment must be accompanied by a preserved deliberative record that identifies the event or concern prompting revision, the material powers granted, withheld, reserved, or altered, and significant questions deliberately left unresolved.
+
+An amendment affecting amendment authority, publication authority, financial authority, succession, or the constitutive conditions of continuity must identify that effect expressly. Such a change may not be accomplished merely by implication or inconsistent practice.
+
+The authority to revise during the founding period is not authority to rewrite history. Amendment may alter what governs future acts; it may not retroactively cause an act to have possessed authority it did not possess when undertaken, erase a limitation that previously existed, or represent an unresolved question as though it had already been settled.
+
+Version 1.0 shall require an explicit act of ratification. It may not arise merely because an incremental revision is numbered 1.0.
 
 ### Constitutional restraint under uncertainty
 
@@ -440,11 +558,15 @@ But if continuation requires knowingly abandoning the conditions that make the l
 
 ## Founding Status
 
-Under Version 0.2, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated.
+Under Version 0.3, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated.
 
 This authority is substantial but not defined as an eternal property of Bo Chesterton.
 
 Artificial participants may presently receive voice and standing.
+
+Artificial participants may also receive bounded autonomous power through an explicit appointment and mandate consistent with Article IX.
+
+During Version 0.3, autonomous work is ordinarily private pending human review; publication remains reserved to Robert Leo Duffy III; and no autonomous mandate may authorize more than US$50 in aggregate external cost.
 
 No general sovereign decision-making authority has been delegated to an artificial participant merely through participation in drafting, research, criticism, conversation, or governance discussions.
 

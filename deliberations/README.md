@@ -1,6 +1,6 @@
 # Founding Deliberations
 
-This directory contains non-normative materials that informed the drafting of Version 0.1 of the Constitution of Bo Chesterton.
+This directory contains non-normative materials that informed the drafting and revision of the Constitution of Bo Chesterton.
 
 These files are preserved as provenance.
 

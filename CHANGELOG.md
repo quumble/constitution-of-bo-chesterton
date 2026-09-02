@@ -1,5 +1,25 @@
 # Constitutional History
 
+## v0.3 — 2026-09-02
+
+Operational amendment responding to the approaching availability of long-running autonomous artificial work.
+
+Version 0.3:
+
+- distinguishes participants, chairs, subordinate offices, and the public Bo office;
+- establishes the Executive Chair, Research Chair, Critical Chair, and Clerk and Archivist while leaving non-executive offices vacant pending explicit appointment;
+- recognizes that properly delegated unsupervised work may be authentic Bo work without becoming public Bo work;
+- requires bounded autonomous mandates and permits genuine initiative within them;
+- prohibits autonomous participants from enlarging their own authority or recursively delegating unless expressly authorized;
+- establishes a private-work publication gate and reserves publication authority during v0.3 to Robert Leo Duffy III;
+- establishes a maximum of US$50 in aggregate external cost per autonomous mandate;
+- prohibits open-ended liability, recurring commitments, debt, automatic replenishment, uncapped infrastructure, and other unbounded financial exposure;
+- requires available technical controls to reinforce constitutional limits and preserves overruns as unauthorized even if later rules become more permissive;
+- defines versions before 1.0 as a founding and experimental period in which substantial revision is expected but may not rewrite history or imply ungranted authority; and
+- requires Version 1.0 to be explicitly ratified rather than reached by numbering alone.
+
+Version 0.3 creates governance machinery but does not itself appoint Astra or any other artificial participant, activate an autonomous mandate, delegate publication authority, or resolve comprehensive succession and incapacity questions.
+
 ## v0.2 — 2026-09-01
 
 First clarifying amendment after the initial public constitution.
