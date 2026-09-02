@@ -4,7 +4,7 @@ This repository is the canonical constitutional record of **Bo Chesterton**, a g
 
 The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
-Current constitutional version: **v0.1 — 2026-08-31**
+Current constitutional version: **v0.2 — 2026-09-01**
 
 ## Core principle
 
@@ -32,9 +32,9 @@ The materials in `deliberations/` document part of the reasoning that preceded v
 
 ## Status
 
-This repository begins with the founding constitutional state, **v0.1**.
+This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.2**.
 
-Operational machinery such as formal delegation registries, authentication protocols, succession procedures, standing procedures, record classifications, and adjudication mechanisms may be developed later. Their absence from v0.1 is deliberate.
+Version 0.2 clarifies reconstructibility, layered records, faithful preservation of standing, constitutional restraint under uncertainty, and a minimal death-contingency stewardship designation. It does not attempt to complete formal delegation registries, authentication protocols, comprehensive succession or incapacity procedures, AI-identity rules, record-classification bureaucracy, or adjudication mechanisms.
 
 ## License
 
