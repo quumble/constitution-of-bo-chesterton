@@ -52,5 +52,3 @@ Constitutional authority is determined by `CONSTITUTION.md` and the authenticate
 
 This clarification does not impose additional restrictions on the rights granted by CC BY 4.0.
 
-
-official website https://bochesterton.com/
