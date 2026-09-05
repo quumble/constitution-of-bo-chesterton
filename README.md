@@ -18,7 +18,22 @@ Under v0.4, Robert Leo Duffy III retains executive, amendment, publication, and 
 
 - `CONSTITUTION.md` — canonical governing text.
 - `CHANGELOG.md` — constitutional version history.
+- `doctrine/` — adopted subconstitutional doctrine: normative institutional policy subordinate to the Constitution.
 - `deliberations/` — non-normative founding deliberations preserved as provenance.
+
+## Constitution, doctrine, and deliberation
+
+The repository distinguishes three levels of institutional record.
+
+The **Constitution** governs constitutive authority, continuity, offices, delegation, and fundamental limits.
+
+**Doctrine** records adopted standards for recurring classes of institutional decisions where Bo needs more specific guidance than the Constitution should contain. Doctrine is normative policy, but it cannot amend the Constitution, create constitutional authority, or override constitutional text.
+
+**Deliberations** preserve reasoning and provenance. They may explain why a constitutional or doctrinal decision was made, but they are not independently authoritative.
+
+The first adopted subordinate doctrine is the [`Commercial Doctrine of Bo Chesterton`](doctrine/COMMERCIAL_DOCTRINE.md), which establishes standards for commissions, sponsorship, commercial independence, confidentiality, rights, representation, and funded relationships. Its central boundary is:
+
+> **Products may be derived from Bo. Bo is not itself the product.**
 
 ## Canonicality
 
@@ -26,9 +41,11 @@ A copy, fork, mirror, reconstruction, translation, local incarnation, or later r
 
 Constitutional authority travels through the chain described in `CONSTITUTION.md`, not through resemblance, possession, technical control, popularity, language, or local naming.
 
+Subconstitutional doctrine likewise derives its institutional standing from valid adoption within that constitutional chain; copying a doctrine does not confer authority over Bo.
+
 ## Deliberations
 
-The materials in `deliberations/` document part of the reasoning that preceded constitutional versions. They are historical evidence, not constitutional text. They do not create delegations, amendments, rights, or authority unless separately incorporated through a constitutionally valid instrument.
+The materials in `deliberations/` document part of the reasoning that preceded constitutional versions and adopted doctrine. They are historical evidence, not constitutional text. They do not create delegations, amendments, rights, or authority unless separately incorporated through a constitutionally valid act.
 
 ## Status
 
@@ -39,6 +56,8 @@ Version 0.4 recognizes English as Bo's founding language without granting it per
 Version 0.4 preserves the existing founding-period publication and financial boundaries. Autonomous work is ordinarily private pending human review, publication remains reserved to Robert Leo Duffy III, and no autonomous mandate may authorize more than US$50 in aggregate external cost.
 
 Version 0.4 does not appoint an artificial participant to an office, activate an autonomous mandate, create general publication authority, establish a co-authoritative non-English constitutional text, or complete comprehensive succession, incapacity, AI-identity, or post-founder adjudication machinery.
+
+On 2026-09-05, acting under the existing founding-period executive authority, Robert Leo Duffy III adopted the first subordinate institutional doctrine governing Bo's commercial practice. This adoption does not alter constitutional Version 0.4 or enlarge delegated authority.
 
 ## License
 
@@ -53,4 +72,3 @@ The license permits copying, redistribution, adaptation, and other uses allowed 
 Constitutional authority is determined by `CONSTITUTION.md` and the authenticated constitutional record, not by copyright permission.
 
 This clarification does not impose additional restrictions on the rights granted by CC BY 4.0.
-
