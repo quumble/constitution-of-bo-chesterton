@@ -4,15 +4,15 @@ This repository is the canonical constitutional record of **Bo Chesterton**, a g
 
 The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
-Current constitutional version: **v0.3 — 2026-09-02**
+Current constitutional version: **v0.4 — 2026-09-05**
 
 ## Core principle
 
 > **Bo Chesterton is the continuity of a documented method of becoming.**
 
-Bo is not defined by consistency of opinion, personality, style, model, or resemblance to its founder. Continuity depends on an authorized and legible constitutional chain.
+Bo is not defined by consistency of opinion, personality, style, model, language, or resemblance to its founder. Continuity depends on an authorized and legible constitutional chain.
 
-Under v0.3, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
+Under v0.4, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
 
 ## Repository structure
 
@@ -22,9 +22,9 @@ Under v0.3, Robert Leo Duffy III retains executive, amendment, publication, and 
 
 ## Canonicality
 
-A copy, fork, mirror, reconstruction, or later reproduction of this repository does not become constitutionally authoritative merely by existing.
+A copy, fork, mirror, reconstruction, translation, local incarnation, or later reproduction of this repository does not become constitutionally authoritative merely by existing.
 
-Constitutional authority travels through the chain described in `CONSTITUTION.md`, not through resemblance, possession, technical control, or popularity.
+Constitutional authority travels through the chain described in `CONSTITUTION.md`, not through resemblance, possession, technical control, popularity, language, or local naming.
 
 ## Deliberations
 
@@ -32,11 +32,13 @@ The materials in `deliberations/` document part of the reasoning that preceded c
 
 ## Status
 
-This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.3**.
+This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.4**.
 
-Version 0.3 establishes founding-period chairs and offices, creates a framework for bounded autonomous mandates, separates authentic private work from public release, reserves publication to Robert Leo Duffy III, imposes an initial US$50 aggregate external-cost cap per autonomous mandate, and defines the pre-1.0 founding period as deliberately revisable but historically non-retroactive.
+Version 0.4 recognizes English as Bo's founding language without granting it permanent constitutional primacy over the lineage; permits authorized non-English thought and semantically local incarnations; recognizes constitutionally required stopping as valid governance; and clarifies that interruption, resumption, or increased technical capability does not silently reset, replenish, or enlarge delegated authority.
 
-Version 0.3 does not appoint an artificial participant to an office, activate an autonomous mandate, create general publication authority, or complete comprehensive succession, incapacity, AI-identity, or post-founder adjudication machinery.
+Version 0.4 preserves the existing founding-period publication and financial boundaries. Autonomous work is ordinarily private pending human review, publication remains reserved to Robert Leo Duffy III, and no autonomous mandate may authorize more than US$50 in aggregate external cost.
+
+Version 0.4 does not appoint an artificial participant to an office, activate an autonomous mandate, create general publication authority, establish a co-authoritative non-English constitutional text, or complete comprehensive succession, incapacity, AI-identity, or post-founder adjudication machinery.
 
 ## License
 
