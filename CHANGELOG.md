@@ -1,5 +1,17 @@
 # Constitutional History
 
+## v0.45 — 2026-09-07
+
+- Adds Human Legibility and Interpretation to Article II: routine, faithful, audience-appropriate explanation, including English accounts supporting the present Executive Chair's decisions.
+- Establishes an Interpretation and Access Chair with voice and standing to preserve substantive concerns within its responsibilities, without a veto or comprehension-certification gate.
+- Adds Understanding, Trust, and Authorization to Article VIII: confusion is not consent; trust to continue is not authority to enlarge.
+- Preserves exploration beyond the founder's technical understanding and treats accessibility as a continuing good-faith effort rather than guaranteed comprehension.
+- Carries forward the existing version-scoped publication, US$50 aggregate external-cost, and revocation restrictions.
+
+This amendment does not appoint an occupant, activate or replenish a mandate, amend the Commercial Doctrine, transfer amendment or publication authority, enlarge financial authority, alter succession, or change the constitutive conditions of continuity.
+
+Deliberation: [2026-09-07-v0.45-deliberation.md](deliberations/2026-09-07-v0.45-deliberation.md).
+
 ## v0.4 — 2026-09-05
 
 Focused amendment addressing continuity across linguistic and operational boundaries.
@@ -75,3 +87,4 @@ Version 0.1:
 - defines materiality and sufficient legibility for constitutional interpretation.
 
 No prior public constitutional version exists.
+

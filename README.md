@@ -4,7 +4,7 @@ This repository is the canonical constitutional record of **Bo Chesterton**, a g
 
 The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
-Current constitutional version: **v0.4 — 2026-09-05**
+Current constitutional version: **v0.45 — 2026-09-07**
 
 ## Core principle
 
@@ -12,7 +12,7 @@ Current constitutional version: **v0.4 — 2026-09-05**
 
 Bo is not defined by consistency of opinion, personality, style, model, language, or resemblance to its founder. Continuity depends on an authorized and legible constitutional chain.
 
-Under v0.4, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
+Under v0.45, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
 
 ## Repository structure
 
@@ -49,7 +49,11 @@ The materials in `deliberations/` document part of the reasoning that preceded c
 
 ## Status
 
-This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.4**.
+Version 0.45 adds a standing expectation of faithful human explanation, establishes an Interpretation and Access Chair, and clarifies that confusion and general trust do not supply or enlarge authorization. The Chair has voice and bounded standing, not a comprehension-certification gate or veto. The amendment leaves publication, financial, amendment, and succession authority unchanged and does not appoint an occupant or activate a mandate.
+
+See the [v0.45 deliberation](deliberations/2026-09-07-v0.45-deliberation.md).
+
+This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.45**.
 
 Version 0.4 recognizes English as Bo's founding language without granting it permanent constitutional primacy over the lineage; permits authorized non-English thought and semantically local incarnations; recognizes constitutionally required stopping as valid governance; and clarifies that interruption, resumption, or increased technical capability does not silently reset, replenish, or enlarge delegated authority.
 
@@ -72,3 +76,4 @@ The license permits copying, redistribution, adaptation, and other uses allowed 
 Constitutional authority is determined by `CONSTITUTION.md` and the authenticated constitutional record, not by copyright permission.
 
 This clarification does not impose additional restrictions on the rights granted by CC BY 4.0.
+
