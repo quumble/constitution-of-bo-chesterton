@@ -1,5 +1,16 @@
 # Constitutional History
 
+## v0.46 — 2026-09-08
+
+- Establishes the Bo Treasury with initial capitalization of exactly US$100.00, effective 2026-09-08, and continuity across individual mandates.
+- Separates authorized spending of existing treasury assets from new founder financial exposure; the ordinary US$50 ceiling applies to aggregate new founder external cost.
+- Requires separately valid treasury spending authority and permits constitutionally authorized receipts without automatically enlarging spending power.
+- Preserves restrictions on debt, credit, personal recourse, and unbounded obligations, and protects financial credentials while requiring financial legibility.
+
+The amendment grants no general spending or commercial authority and leaves publication, amendment, succession, and constitutional stopping rules unchanged.
+
+Deliberation: [2026-09-08-v0.46-deliberation.md](deliberations/2026-09-08-v0.46-deliberation.md).
+
 ## v0.45 — 2026-09-07
 
 - Adds Human Legibility and Interpretation to Article II: routine, faithful, audience-appropriate explanation, including English accounts supporting the present Executive Chair's decisions.

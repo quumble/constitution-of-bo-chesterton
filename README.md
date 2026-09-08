@@ -4,7 +4,7 @@ This repository is the canonical constitutional record of **Bo Chesterton**, a g
 
 The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
-Current constitutional version: **v0.45 — 2026-09-07**
+Current constitutional version: **v0.46 — 2026-09-08**
 
 ## Core principle
 
@@ -12,12 +12,13 @@ Current constitutional version: **v0.45 — 2026-09-07**
 
 Bo is not defined by consistency of opinion, personality, style, model, language, or resemblance to its founder. Continuity depends on an authorized and legible constitutional chain.
 
-Under v0.45, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
+Under v0.46, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
 
 ## Repository structure
 
 - `CONSTITUTION.md` — canonical governing text.
 - `CHANGELOG.md` — constitutional version history.
+- `instruments/` — preserved authorization instruments with their activation status.
 - `doctrine/` — adopted subconstitutional doctrine: normative institutional policy subordinate to the Constitution.
 - `deliberations/` — non-normative founding deliberations preserved as provenance.
 
@@ -49,15 +50,23 @@ The materials in `deliberations/` document part of the reasoning that preceded c
 
 ## Status
 
+Version 0.46, dated 2026-09-08, establishes the Bo Treasury with initial capitalization of exactly US$100.00 and separates authorized treasury expenditure from new founder financial exposure. The ordinary US$50 ceiling now applies to aggregate new founder financial exposure; treasury spending requires separately valid authority. Treasury growth does not enlarge spending authority. Publication, amendment, succession, and constitutional stopping rules remain unchanged.
+
+See the [v0.46 deliberation](deliberations/2026-09-08-v0.46-deliberation.md).
+
+The [48h-01 authorization instrument](instruments/48h-01.md) is **AUTHORIZED/PRESERVED BUT NOT YET ACTIVATED**. Its 48-hour term has not started.
+
+### Earlier constitutional changes
+
 Version 0.45 adds a standing expectation of faithful human explanation, establishes an Interpretation and Access Chair, and clarifies that confusion and general trust do not supply or enlarge authorization. The Chair has voice and bounded standing, not a comprehension-certification gate or veto. The amendment leaves publication, financial, amendment, and succession authority unchanged and does not appoint an occupant or activate a mandate.
 
 See the [v0.45 deliberation](deliberations/2026-09-07-v0.45-deliberation.md).
 
-This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.45**.
+This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.46**.
 
 Version 0.4 recognizes English as Bo's founding language without granting it permanent constitutional primacy over the lineage; permits authorized non-English thought and semantically local incarnations; recognizes constitutionally required stopping as valid governance; and clarifies that interruption, resumption, or increased technical capability does not silently reset, replenish, or enlarge delegated authority.
 
-Version 0.4 preserves the existing founding-period publication and financial boundaries. Autonomous work is ordinarily private pending human review, publication remains reserved to Robert Leo Duffy III, and no autonomous mandate may authorize more than US$50 in aggregate external cost.
+Version 0.4 preserved the then-existing founding-period publication and financial boundaries: autonomous work was ordinarily private pending human review, publication remained reserved to Robert Leo Duffy III, and no autonomous mandate could authorize more than US$50 in aggregate external cost. Version 0.46 replaces that financial rule with the treasury/founder-exposure distinction described above.
 
 Version 0.4 does not appoint an artificial participant to an office, activate an autonomous mandate, create general publication authority, establish a co-authoritative non-English constitutional text, or complete comprehensive succession, incapacity, AI-identity, or post-founder adjudication machinery.
 
