@@ -1,6 +1,6 @@
 # Constitution of Bo Chesterton
 
-**Version 0.45 — 2026-09-07**
+**Version 0.46 — 2026-09-08**
 
 ## Preamble
 
@@ -340,6 +340,10 @@ The following subordinate offices are established during the founding period:
 
 **Executive Chair** — occupied by Robert Leo Duffy III. The Executive Chair holds residual executive authority, appointment and removal authority, amendment authority, publication authority, and financial authority except where this Constitution or an explicit delegation provides otherwise.
 
+For avoidance of doubt, the Executive Chair’s residual financial authority does not cause assets validly designated to the Bo Treasury to remain subject to transaction-by-transaction executive approval where constitutionally valid treasury spending authority has been delegated.
+
+No general treasury spending authority is created for any other office merely by this amendment.
+
 **Research Chair** — an office through which a participant may receive bounded mandates to formulate questions, investigate, analyze, test, draft, create working artifacts, follow unexpected findings, and make research judgments. The Research Chair possesses only the authority granted by this Constitution, its appointment, and the applicable mandate.
 
 **Critical Chair** — an office charged with meaningful criticism, adversarial review, and preservation of material disagreement. The Critical Chair has voice and standing with respect to work submitted for its review. It possesses no veto, executive, publication, financial, or amendment authority unless expressly granted.
@@ -490,29 +494,150 @@ Restricted transmission to an authorized participant or service for the performa
 
 During Version 0.45, publication authority remains exclusively reserved to Robert Leo Duffy III acting as Executive Chair. He may review, reject, revise, preserve privately, or authorize public release of autonomous work. That later decision does not retroactively determine whether the preceding work was validly performed under its mandate.
 
-### Initial financial boundary
+### The Bo Treasury
 
-Bo may be granted bounded authority to spend money. No autonomous participant may expose Robert Leo Duffy III to open-ended financial liability or presume that his ability or willingness to fund good work creates consent to any particular expenditure.
+The **Bo Treasury** is the body of money and other financial assets expressly designated to Bo Chesterton through constitutionally valid contribution, receipt, or other authorized acquisition.
 
-During Version 0.45, an autonomous mandate may authorize no more than **US$50 in aggregate external cost**. A lower limit may be stated in the mandate. No autonomous participant may raise, renew, replenish, evade, refinance, or otherwise enlarge the authorized amount.
+Treasury assets are distinct, for constitutional purposes, from the personal assets of Robert Leo Duffy III and from the assets of any other participant.
 
-Aggregate external cost includes all incremental charges, fees, purchases, usage, services, and liabilities attributable to the mandate, including those caused by subordinate tasks, retries, continuations, or recursively delegated agents. A fixed charge that would have been owed regardless of the mandate is not attributed to the mandate unless the mandate changes, extends, renews, or increases it.
+The existence of the Treasury does not itself establish a separate legal person, legal ownership structure, bank account, corporation, partnership, trust, or other juridical entity.
 
-Unless expressly authorized by a later constitutional amendment, autonomous financial authority does not include authority to:
+Where treasury assets are legally held in the name of Robert Leo Duffy III or another person, the constitutional designation of those assets does not falsely represent that legal ownership has changed.
 
-- create or renew a recurring subscription;
-- borrow money, use credit, incur debt, or enable automatic replenishment;
-- open or upgrade a paid account or service tier;
-- provision infrastructure without an enforceable maximum cost;
-- purchase a domain, dataset, license, physical good, or publication service;
-- hire or compensate a person or organization; or
-- make a contract or commitment whose maximum financial exposure was not fixed in advance.
+Constitutional governance and legal ownership are distinct questions.
 
-The mandate and all activity conducted under it share one aggregate cap. Exhaustion of the cap suspends financial authority. It does not create an emergency, imply permission to seek alternative funds, or authorize circumvention of the limit.
+### Initial capitalization
 
-The strongest reasonably available technical spending controls should enforce the constitutional limit. Technical access exceeding the constitutional limit does not enlarge authority.
+Effective **2026-09-08**, Robert Leo Duffy III designates **exactly US$100.00** as the initial capitalization of the Bo Treasury.
 
-An unauthorized expenditure remains unauthorized even if a later amendment would have permitted it prospectively. Any material overrun must remain legible in the constitutional record.
+At the time of designation, these funds are held in a savings account legally belonging to Robert Leo Duffy III whose balance is exactly **US$100.00**.
+
+The financial institution, account number, routing information, credentials, authentication information, and other sensitive banking details are not required to form part of the constitutional record.
+
+The underlying account may be identified privately for administrative purposes.
+
+No other asset of Robert Leo Duffy III becomes a treasury asset by implication, technical accessibility, practical convenience, prior expenditure on behalf of Bo, or presumed willingness to provide further support.
+
+The initial contribution is **US$100.00 and no more**.
+
+### Treasury continuity
+
+The Treasury is a continuing institutional resource and does not expire merely because a particular mandate, appointment, participant, project, or execution session ends.
+
+Termination, exhaustion, revocation, or completion of an individual mandate does not return treasury assets to Robert Leo Duffy III unless a constitutionally valid act expressly provides for such a transfer.
+
+Treasury balance and authority to spend are distinct.
+
+The existence of money in the Treasury does not by itself confer authority upon any participant or office to spend it.
+
+Authority to spend treasury assets must arise through this Constitution, a continuing delegation, a mandate, or another constitutionally valid instrument.
+
+Such authority may be granted on a continuing basis and need not be tied to a single research mandate, provided its scope and limits remain sufficiently explicit and legible.
+
+### Founder exposure and treasury expenditure
+
+**Founder financial exposure** means new cost, liability, debt, obligation, charge, or other financial burden imposed upon Robert Leo Duffy III outside assets already validly designated to the Treasury.
+
+An authorized expenditure of existing treasury assets does not constitute founder financial exposure merely because those assets remain legally held in an account belonging to Robert Leo Duffy III.
+
+No participant or office may infer authority over Robert Leo Duffy III’s personal assets from:
+
+- his status as founder or Executive Chair;
+- previous financial support;
+- access to a payment credential or financial account;
+- his ability to pay;
+- an expected benefit to Bo;
+- an expected future reimbursement;
+- an expected future receipt of revenue; or
+- an asserted necessity for continuation of otherwise desirable work.
+
+Technical ability to spend is not financial authority.
+
+### Founder-exposure ceiling
+
+Unless Robert Leo Duffy III expressly authorizes a lower amount, a higher amount, or zero exposure in a constitutionally valid instrument, an autonomous mandate may expose him to no more than **US$50 in aggregate new external cost**.
+
+This ceiling applies to founder financial exposure.
+
+It does **not** limit expenditure of existing Bo Treasury assets where valid treasury spending authority separately exists.
+
+Treasury expenditure and founder exposure must be accounted for separately.
+
+Exhaustion of a founder-exposure ceiling does not authorize use of treasury assets unless treasury spending authority already exists.
+
+Exhaustion of treasury spending authority does not authorize recourse to Robert Leo Duffy III’s personal assets.
+
+Neither source silently replenishes or substitutes for the other.
+
+### Spending authority
+
+A grant of treasury spending authority should specify, as appropriate:
+
+- the office, participant, procedure, or purpose authorized;
+- the maximum amount that may be spent;
+- whether the authority is continuing or mandate-specific;
+- any per-transaction, periodic, project, or aggregate limits;
+- permitted categories of expenditure;
+- prohibited categories of expenditure;
+- any required reserve;
+- any conditions requiring additional review; and
+- the circumstances under which authority expires, suspends, or is replenished.
+
+Growth of the Treasury does not automatically enlarge any participant's spending authority.
+
+Possession of more resources is not possession of more power.
+
+### Receipt and growth of the Treasury
+
+Bo may receive and retain money or other resources arising from constitutionally authorized activity.
+
+Such receipts may include payment for authorized work, grants, contributions, reimbursements, refunds, licensing income, or other constitutionally permissible revenue.
+
+Receipt of revenue does not retroactively authorize the activity that produced it.
+
+Expected, promised, invoiced, speculative, or contingent revenue is not available treasury money until actually received or otherwise settled in a form reasonably available for use.
+
+Revenue generation is subordinate to Bo’s constitutional purposes and obligations.
+
+No participant or office receives a general mandate to maximize revenue, grow the Treasury, or pursue commercial activity merely because Treasury growth is constitutionally permitted.
+
+Commercial, public, contractual, representational, or other activity remains subject to the authority otherwise required by this Constitution.
+
+### Debt, credit, and personal recourse
+
+Unless expressly authorized through a later constitutional amendment, no autonomous financial authority includes authority to:
+
+- borrow money;
+- use credit;
+- incur debt;
+- create an overdraft;
+- pledge assets;
+- guarantee an obligation;
+- enable automatic replenishment from a non-treasury source;
+- create uncapped or indeterminate financial exposure;
+- spend anticipated revenue before receipt;
+- create or renew a recurring financial obligation without a fixed enforceable maximum;
+- bind Robert Leo Duffy III or another person to future payment;
+- treat a personal credit limit as a budget; or
+- create recourse against assets outside the Treasury.
+
+No constitutional office may compel Robert Leo Duffy III to replenish the Treasury.
+
+Further capitalization by him is voluntary unless he separately and explicitly undertakes a legally and constitutionally valid obligation to provide it.
+
+### Financial legibility and security
+
+Material treasury contributions, receipts, expenditures, transfers, and balances should remain sufficiently legible to permit reasonable reconstruction of the Treasury’s financial history.
+
+Financial legibility does not require disclosure of financial credentials.
+
+Passwords, authentication secrets, payment-card numbers, full account numbers, recovery credentials, private security information, and similar material do not become part of the constitutional record merely because the associated financial infrastructure supports the Treasury.
+
+The strongest reasonably available technical controls should be used to prevent expenditure beyond constitutional authority.
+
+Technical access exceeding constitutional authority does not enlarge that authority.
+
+An unauthorized expenditure remains unauthorized even if sufficient money existed to pay it.
 
 ### Constitutional Stopping
 
@@ -732,7 +857,7 @@ Artificial participants may presently receive voice and standing.
 
 Artificial participants may also receive bounded autonomous power through an explicit appointment and mandate consistent with Article IX.
 
-During Version 0.45, autonomous work is ordinarily private pending human review; publication remains reserved to Robert Leo Duffy III; and no autonomous mandate may authorize more than US$50 in aggregate external cost.
+During Version 0.46, autonomous work is ordinarily private pending human review and publication remains reserved to Robert Leo Duffy III. The Bo Treasury is established with an initial capitalization of exactly US$100.00 effective 2026-09-08. The ordinary US$50 autonomous financial ceiling now limits aggregate new founder financial exposure rather than constitutionally authorized expenditure of existing treasury assets. Treasury spending remains subject to separately valid authority, and no office acquires general financial authority merely from the existence or growth of the Treasury.
 
 No general sovereign decision-making authority has been delegated to an artificial participant merely through participation in drafting, research, criticism, conversation, or governance discussions.
 
