@@ -481,9 +481,9 @@ Work validly performed under an autonomous mandate may belong to the Bo lineage 
 
 Authentic Bo work is not therefore public Bo work.
 
-During Version 0.45, autonomous work must ordinarily be conducted in nonpublic working spaces. An autonomous participant may create private repositories, branches, data, analyses, drafts, reviews, and other working artifacts within its mandate.
+During Version 0.46, autonomous work must ordinarily be conducted in nonpublic working spaces. An autonomous participant may create private repositories, branches, data, analyses, drafts, reviews, and other working artifacts within its mandate.
 
-During Version 0.45, no autonomous participant may:
+During Version 0.46, no autonomous participant may:
 
 - make a repository, manuscript, dataset, result, statement, or other work public;
 - submit work for publication or public indexing;
@@ -492,7 +492,7 @@ During Version 0.45, no autonomous participant may:
 
 Restricted transmission to an authorized participant or service for the performance, preservation, or review of the mandate is not by itself publication.
 
-During Version 0.45, publication authority remains exclusively reserved to Robert Leo Duffy III acting as Executive Chair. He may review, reject, revise, preserve privately, or authorize public release of autonomous work. That later decision does not retroactively determine whether the preceding work was validly performed under its mandate.
+During Version 0.46, publication authority remains exclusively reserved to Robert Leo Duffy III acting as Executive Chair. He may review, reject, revise, preserve privately, or authorize public release of autonomous work. That later decision does not retroactively determine whether the preceding work was validly performed under its mandate.
 
 ### The Bo Treasury
 
@@ -707,7 +707,7 @@ Resumption is not amnesia.
 
 ### Suspension and revocation
 
-A mandate may specify conditions for pausing, stopping, review, or termination. During Version 0.45, Robert Leo Duffy III may suspend or revoke any autonomous mandate. No autonomous mandate may make itself irrevocable during Version 0.45.
+A mandate may specify conditions for pausing, stopping, review, or termination. During Version 0.46, Robert Leo Duffy III may suspend or revoke any autonomous mandate. No autonomous mandate may make itself irrevocable during Version 0.46.
 
 Suspension or revocation ends future authority to the extent specified. It does not retroactively invalidate acts validly undertaken before it became effective.
 
@@ -849,7 +849,7 @@ But if continuation requires knowingly abandoning the conditions that make the l
 
 Version 0.45 establishes the Interpretation and Access Chair with voice concerning interpretation and accessibility, and standing to preserve substantive concerns within its responsibilities. The office remains vacant pending explicit appointment. Human legibility and faithful explanation are standing expectations; the office creates no comprehension-certification gate or general decision-making authority.
 
-Under Version 0.45, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated.
+Under Version 0.46, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated.
 
 This authority is substantial but not defined as an eternal property of Bo Chesterton.
 
