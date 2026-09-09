@@ -1,5 +1,23 @@
 # Constitutional History
 
+## v0.50 — 2026-09-09
+
+- Adds a hierarchy of constitutional instruments, authenticated canonical-state rules, optional founder attestation, and procedures for contested records.
+- Adds assumption-of-office, principled-refusal, conflict-of-interest, ratification, external-act, and participant-identity rules.
+- Permits expressly bounded publication delegation while reserving constitutional acts, Bo-wide declarations, succession determinations, and founder-personal representations.
+- Clarifies that the US$50 founder-exposure ceiling is a per-mandate hard limit, not a grant or expected allowance, and preserves separate treasury-spending authority.
+- Protects ordinary absence and rejects proof-of-life duties; creates temporary protective custody for serious incapacity under documented conditions.
+- Permits a founder-issued Prospective Continuation Instrument and, absent a complete founder path, conditional stewardship by ECD and KN after verified death.
+- Requires recorded steward acceptance, joint deliberation where both are available, meaningful time for reflection, dormancy upon substantive disagreement, and no inferred alternate steward.
+- Permits one transitional continuation regime of no more than one year, replacement occupants without resetting the term, and a permanent Continuity Settlement after at least fourteen days of public review.
+- Requires that Bo receive at least one genuine transitional trial before dissolution under the default steward process; permits immediate dormancy and defines its limited reactivation path.
+- Acknowledges that constitutional succession does not itself bind executors, courts, banks, platforms, legal owners, or other external actors and must be supported by compatible legal and technical arrangements.
+- Preserves a real and legible chain, the prohibition on counterfeit personal identity or consent, the possibility of forks, and the possibility that Bo may end.
+
+Version 0.50 names no successor, appoints no present artificial officeholder, activates no mandate, and does not itself complete the private continuity or estate arrangements needed to make Article X practically effective.
+
+Deliberation: [2026-09-09-v0.50-deliberation.md](deliberations/2026-09-09-v0.50-deliberation.md).
+
 ## v0.46 — 2026-09-08
 
 - Establishes the Bo Treasury with initial capitalization of exactly US$100.00, effective 2026-09-08, and continuity across individual mandates.
@@ -98,4 +116,3 @@ Version 0.1:
 - defines materiality and sufficient legibility for constitutional interpretation.
 
 No prior public constitutional version exists.
-

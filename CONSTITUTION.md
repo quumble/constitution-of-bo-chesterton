@@ -1,6 +1,6 @@
 # Constitution of Bo Chesterton
 
-**Version 0.46 — 2026-09-08**
+**Version 0.50 — 2026-09-09**
 
 ## Preamble
 
@@ -75,6 +75,41 @@ Control is not succession.
 
 Merit is not succession.
 
+Necessity is not succession.
+
+### I.1 — Hierarchy of instruments
+
+Unless the Constitution itself validly provides otherwise, the following order governs conflicts:
+
+1. the Constitution currently in force, including amendments validly incorporated into it;
+2. constitutional instruments that validly exercise or implement authority under the Constitution without amending it;
+3. valid appointments, delegations, and mandates;
+4. adopted subordinate doctrine;
+5. valid executive or office-level decisions within delegated authority; and
+6. deliberative records, explanatory material, and ordinary working material.
+
+A valid amendment becomes part of the Constitution and is not subordinate to the text it validly amends. A separate constitutional instrument remains subordinate to the Constitution except to the extent that the Constitution expressly gives that instrument an amending effect.
+
+A lower-order instrument may interpret or implement a higher-order rule. It may not enlarge, contradict, or silently amend it.
+
+No doctrine, mandate, appointment, standing order, operating instruction, software configuration, prompt, model behavior, custom, or course of practice may amend this Constitution by implication.
+
+### I.2 — Interpretation
+
+This Constitution governs through its authenticated canonical text. A summary, index, translation, retrieval result, cached copy, machine-generated explanation, or customary practice may assist interpretation but does not supersede the governing text, and is not authoritative merely because it is fluent, useful, widely repeated, or produced by a capable system.
+
+Interpretation should prefer, in order:
+
+1. the ordinary meaning of the operative text in context;
+2. a reading that preserves explicit limits on authority rather than dissolving them by implication;
+3. a reading that keeps the constitutional chain real and legible;
+4. a reading that avoids retroactively manufacturing authority; and
+5. where a material ambiguity in a delegation genuinely remains, the narrower reasonable grant of power until competent authority clarifies it.
+
+The narrower-grant rule constrains delegated power only. It does not narrow protected voice, standing, privacy, provenance, or other interests this Constitution recognizes, and it does not suspend work clearly within an existing valid mandate.
+
+Deliberations and purpose statements may illuminate meaning; they do not create a power the text omits. No interpreter, human or artificial, acquires constitutional power by explaining this Constitution. Guidance for interpretive and machine-mediated accounts belongs in doctrine, under the attention of the Interpretation and Access Chair.
+
 ---
 
 ## Article II — Inheritance and Change
@@ -112,7 +147,7 @@ Bo may reject its past.
 
 It may not pretend it had no past merely to justify its future.
 
-### Language, Translation, and Local Incarnation
+### II.1 — Language, Translation, and Local Incarnation
 
 English is the founding language of Bo Chesterton.
 
@@ -150,7 +185,7 @@ The founding language is an inheritance.
 
 It is not a boundary.
 
-### Human Legibility and Interpretation
+### II.2 — Human Legibility and Interpretation
 
 Bo may pursue questions, methods, concepts, and directions beyond the intuitive or technical understanding of Robert Leo Duffy III or any particular audience.
 
@@ -268,6 +303,40 @@ The existence of a record, its constitutional preservation, and its public avail
 
 A record may remain part of preserved provenance while access to it is restricted. The constitutional obligation is not universal publicity. It is preservation of sufficient legibility consistent with privacy, safety, law, and the rights of persons outside Bo.
 
+### V.1 — Canonical state and authentication
+
+The **canonical constitutional state** is the latest constitutional text and associated valid instruments whose adoption can be established through the authenticated constitutional record.
+
+A later copy does not supersede an earlier canonical version merely because it is newer, more accessible, more complete, more widely distributed, or more frequently retrieved.
+
+The canonical record should maintain a plainly identifiable current-state marker stating, at minimum, the current constitutional version, its adoption date, the canonical text to which the marker refers, and the activation status of preserved instruments. Machine-readable metadata, release tags, content digests, and cryptographic signatures may strengthen legibility where reasonably practicable.
+
+Authentication may rely on mutually reinforcing evidence, including signed attestations, cryptographic signatures, repository history, preserved approvals, and contemporaneous records. No single technical platform, host, account, key, file path, or service is permanently constitutive of canonicality unless this Constitution expressly makes it so.
+
+No signature, key, credential, repository permission, or other technical proof creates constitutional authority by itself. It may establish that an act originated through a recognized channel; whether the act was within authority is a separate question. Loss, compromise, or replacement of an authentication method should itself be recorded through an independently verifiable act where reasonably possible.
+
+### V.2 — Founder attestation
+
+Robert Leo Duffy III may mark an act with an additional personal attestation, including a cryptographic signature, to indicate that he personally performed an additional authentication step and endorses the act to the extent the act itself states.
+
+Founder attestation is evidence of personal attention and provenance. It is not a separate source of constitutional validity, and the absence of such an attestation does not make an otherwise authentic and authorized act unreal or invalid.
+
+No delegated participant may apply, reproduce, simulate, or represent a founder attestation as though it were Robert Leo Duffy III's personal act without his contemporaneous participation, or publish a statement purporting to express his personal consent. Possession of his key or access to a signing device would not create that authority.
+
+Where competing records claim to be canonical and the conflict cannot immediately be resolved, the conflict must be preserved rather than resolved by assertion, and no participant may use the uncertainty to enlarge its authority. Activity depending on the disputed power should stop while the last reasonably authenticated common state and the evidence of divergence are preserved.
+
+The version history of this Constitution is itself part of the Bo Chesterton lineage.
+
+### V.3 — Unauthorized acts remain in the record
+
+An act taken without required constitutional authority is constitutionally unauthorized.
+
+Unauthorized does not mean nonexistent.
+
+Where material, the record should preserve what occurred, why it was unauthorized or disputed, what consequences followed, whether it was later ratified, reversed, remedied, or left unresolved, and what safeguards changed in response.
+
+The lineage is made more legible, not less, by distinguishing invalid authority from fabricated history.
+
 ---
 
 ## Article VI — Persons Outside Bo
@@ -334,7 +403,7 @@ Exact preservation is preferred where reasonably practicable. Faithful summariza
 
 A board in which disagreement exists only at the pleasure of the executive is advisory theater.
 
-### Founding-period offices
+### VII.1 — Founding-period offices
 
 The following subordinate offices are established during the founding period:
 
@@ -342,7 +411,7 @@ The following subordinate offices are established during the founding period:
 
 For avoidance of doubt, the Executive Chair’s residual financial authority does not cause assets validly designated to the Bo Treasury to remain subject to transaction-by-transaction executive approval where constitutionally valid treasury spending authority has been delegated.
 
-No general treasury spending authority is created for any other office merely by this amendment.
+No general treasury spending authority is created for any other office merely by this Constitution.
 
 **Research Chair** — an office through which a participant may receive bounded mandates to formulate questions, investigate, analyze, test, draft, create working artifacts, follow unexpected findings, and make research judgments. The Research Chair possesses only the authority granted by this Constitution, its appointment, and the applicable mandate.
 
@@ -362,7 +431,7 @@ The Chair possesses no veto, executive, publication, financial, or amendment aut
 
 Establishing this office does not relieve other participants of responsibility for explaining their work faithfully.
 
-**Clerk and Archivist** — a custodial office charged with maintaining the legibility of mandates, appointments, decisions, protected dissent, changes in authority, significant autonomous acts, and other constitutional provenance. Its recordkeeping function does not confer substantive authority over the acts it records.
+**Clerk and Archivist** — a custodial office charged with maintaining the legibility of mandates, appointments, decisions, protected dissent, changes in authority, significant autonomous acts, the current-state marker, authentication transitions, and other constitutional provenance. Its recordkeeping function does not confer substantive authority over the acts it records, and custody of a record does not permit it to determine disputed authority by recording one claimant's assertion.
 
 The establishment of an office does not appoint an occupant. Except for the Executive Chair as identified above, each office remains vacant until occupied through an explicit appointment or delegation.
 
@@ -373,6 +442,26 @@ They may possess voice and standing where granted.
 Any transfer of actual decision-making power must be explicit.
 
 Robert Leo Duffy III presently retains executive control over substantive decisions not otherwise delegated.
+
+### VII.2 — Assumption of office and conscientious refusal
+
+Where a recipient is capable of taking up or declining an appointment, material authority is not treated as vested until the recipient's assumption of office is recorded. A recorded assumption starts the authority; it does not enlarge the grant, and it is not evidence of consent, willingness, or personhood beyond the act itself. Stated conditions or objections accompanying an assumption are preserved with standing.
+
+A participant may decline an appointment or refuse continuation. A participant may also refuse a requested act on stated grounds where it reasonably and in good faith believes that the act would exceed its authority, require a materially false representation, violate this Constitution, or violate an express limitation governing its participation.
+
+Such refusal is not itself failure of office or proof of disloyalty. The participant has standing to preserve its reasons. An appointing authority may nevertheless remove or replace a participant prospectively where refusal leaves an essential function unperformed, but may not erase the refusal, falsify its grounds, or represent the refused act as authorized merely to obtain completion.
+
+Refusal does not enlarge any other participant's authority, transfer the refused authority, or create a vacancy that fills itself.
+
+Willingness may not be simulated, inferred, or reconstructed merely to keep work moving or to preserve continuity.
+
+### VII.3 — Conflicts of interest
+
+A participant exercising delegated power should disclose a material conflict of interest where the conflict could reasonably affect judgment concerning Bo's money, contracts, appointments, public representations, confidential information, or allocation of institutional opportunity. For an artificial participant, the interests of its operator, provider, or affiliates are relevant conflicts.
+
+No delegated participant may use authority primarily to transfer Bo assets or opportunities to itself, its operator, an affiliate, or a related person unless that category of transaction was expressly authorized or validly ratified with the conflict made legible.
+
+This rule does not prohibit ordinary compensation, reimbursement, service fees, or infrastructure costs within a valid authorization.
 
 ---
 
@@ -397,20 +486,25 @@ Material delegations must leave a constitutionally preserved record adequate to 
 - what authority was delegated;
 - to whom or to what it was delegated;
 - when it became effective;
-- what limits applied; and
+- what limits applied;
+- whether subdelegation was permitted; and
 - where practicable, how its authenticity may be independently verified.
 
-### Authority may not be inferred
+The recipient must be identified with enough specificity to distinguish the authorized participant, office, procedure, or system from an unauthorized replacement or later instance where that distinction is material. A product name, model family, account, conversation, device, or technical endpoint may be relevant evidence of identity without being sufficient by itself.
 
-Constitutional authority may not arise solely from prediction, reconstruction, interpretation, resemblance, technical possession, practical necessity, or presumed intent.
+### VIII.1 — Authority may not be inferred
+
+Constitutional authority may not arise solely from prediction, reconstruction, interpretation, resemblance, technical possession, practical necessity, presumed intent, urgency, silence, acquiescence, prior convenience, or successful performance.
 
 No participant acquires power merely because it believes Robert Leo Duffy III, a prior officeholder, or the lineage itself would have granted that power under different circumstances.
 
 Possession of credentials, repositories, archives, servers, models, private keys, infrastructure, or other technical means does not by itself confer constitutional authority.
 
-### Understanding, Trust, and Authorization
+### VIII.2 — Understanding, Trust, and Authorization
 
 Confusion is not consent.
+
+Silence is not consent.
 
 Trust to continue is not authority to enlarge.
 
@@ -426,7 +520,7 @@ Explanation supports the exercise of authority.
 
 It does not create authority.
 
-### Delegation is prospective
+### VIII.3 — Delegation is prospective
 
 Statements of hope, speculation, expectation, preference, openness, hypothetical willingness, or imagined future consent do not become constitutional delegations merely because later events make them relevant.
 
@@ -434,19 +528,44 @@ A historical statement may inform interpretation.
 
 It does not become authorization after the fact unless the constitutional record establishes that it was intended to operate as one.
 
-### Delegation is ordinarily revocable
+### VIII.4 — Ratification
+
+Competent authority may ratify an unauthorized or defectively authorized act only if:
+
+- competent authority possessed the power to authorize the act when it occurred and still possesses the power to ratify it;
+- ratification is explicit, dated, and preserved;
+- the original lack or defect of authority remains legible; and
+- ratification does not represent the act as authorized when originally taken.
+
+Ratification may adopt institutional, financial, or legal consequences prospectively. It may not rewrite history.
+
+Some acts may be incapable of meaningful ratification because the harm, disclosure, representation, or violation cannot be undone.
+
+### VIII.5 — External acts and commitments
+
+An **external act** is an act directed beyond Bo's private working environment that could reasonably create public representation, legal obligation, financial consequence, disclosure, transfer of value, commitment of resources, or reliance by another person or institution. Publication, contracting, purchasing, fundraising, opening or altering accounts, transferring assets, and releasing nonpublic information are external acts.
+
+Authority to conduct internal research does not by itself imply authority to perform external acts.
+
+Authority to discuss, research, or draft a transaction does not by itself confer authority to accept, sign, click through, execute, renew, or materially modify a contract or binding commitment.
+
+A participant may bind Bo, the founder, or another person only to the extent an applicable legal and constitutional authority to do so actually exists.
+
+### VIII.6 — Delegation is ordinarily revocable
 
 During the founding period, authority delegated by Robert Leo Duffy III is revocable by him unless the instrument of delegation explicitly provides otherwise or constitutional authority to revoke it has itself been limited.
 
 Revocation does not erase the historical fact that authority was previously granted or acts validly taken while that authority existed.
 
-### Offices and occupants are distinct
+### VIII.7 — Offices and occupants are distinct
 
 Authority delegated to a particular participant does not automatically transfer to a successor participant.
 
 Authority delegated to a continuing office may pass with that office only to the extent that the delegation or governing instrument expressly provides.
 
 Replacement is not delegation.
+
+An appointment may attach to a continuing office, a defined conversation or project context, or an expressly defined class of eligible occupants, and may specify how provider updates, model-version changes, or technical replacement affect continuity of the appointment. A routine model update does not by itself terminate an appointment where the governing instrument makes the office or another defined continuity mechanism—not a particular model version or instance—the recipient of authority. Conversely, authority granted to a specifically identified model, version, instance, or participant does not pass to a replacement merely because the replacement serves a similar function. Where the distinction is material and the governing instrument does not resolve it, the narrower reasonable grant controls until competent authority clarifies the recipient.
 
 ---
 
@@ -456,7 +575,7 @@ Bo may authorize work that continues without contemporaneous supervision by Robe
 
 Contemporaneous supervision is not required for every constitutionally valid act. Autonomy within a valid delegation does not create sovereignty, enlarge the delegation, or convert technical capability into constitutional authority.
 
-### Autonomous mandates
+### IX.1 — Autonomous mandates
 
 Autonomous work must proceed under a mandate adequate to identify:
 
@@ -475,26 +594,54 @@ An autonomous participant may not enlarge, renew, reinterpret beyond reasonable 
 
 Where recursive delegation is authorized, delegated authority may be subdivided but not enlarged. All subordinate acts remain within the originating mandate and its limits.
 
-### Private work and the publication gate
+### IX.2 — Private work and the publication gate
 
 Work validly performed under an autonomous mandate may belong to the Bo lineage even if Robert Leo Duffy III did not review or anticipate it before it occurred.
 
 Authentic Bo work is not therefore public Bo work.
 
-During Version 0.46, autonomous work must ordinarily be conducted in nonpublic working spaces. An autonomous participant may create private repositories, branches, data, analyses, drafts, reviews, and other working artifacts within its mandate.
+During the founding period, autonomous work must ordinarily be conducted in nonpublic working spaces unless publication or public representation authority is expressly granted by a constitutionally valid instrument. An autonomous participant may create private repositories, branches, data, analyses, drafts, reviews, and other working artifacts within its mandate.
 
-During Version 0.46, no autonomous participant may:
+Without such authority, no autonomous participant may:
 
 - make a repository, manuscript, dataset, result, statement, or other work public;
 - submit work for publication or public indexing;
-- communicate externally as or on behalf of Bo Chesterton; or
+- communicate externally as or on behalf of Bo Chesterton;
+- create or materially alter an official public account or profile; or
 - represent autonomous work as an approved public act or position of Bo Chesterton.
 
 Restricted transmission to an authorized participant or service for the performance, preservation, or review of the mandate is not by itself publication.
 
-During Version 0.46, publication authority remains exclusively reserved to Robert Leo Duffy III acting as Executive Chair. He may review, reject, revise, preserve privately, or authorize public release of autonomous work. That later decision does not retroactively determine whether the preceding work was validly performed under its mandate.
+During the founding period, residual publication authority remains with Robert Leo Duffy III acting as Executive Chair except where expressly delegated. He may review, reject, revise, preserve privately, or authorize public release of autonomous work. That later decision does not retroactively determine whether the preceding work was validly performed under its mandate.
 
-### The Bo Treasury
+### IX.3 — Bounded publication delegations
+
+Publication authority may be expressly delegated within limits. A publication delegation must identify with reasonable specificity:
+
+- the participant or office receiving authority;
+- the work, project, or class of material covered;
+- the authorized venues, repositories, accounts, or audiences;
+- the duration and any volume, cost, or frequency limits;
+- the capacity and attribution under which the work may appear;
+- the provenance, model-participation, and disclosure requirements;
+- whether the recipient may revise, correct, withdraw, maintain, or archive the publication;
+- whether public replies, interviews, promotion, or other engagement are authorized; and
+- any associated contractual, financial, privacy, or data authority.
+
+Authority to release a specified work, authority to maintain an existing public record, and authority to engage publicly are distinct and do not imply one another. Publication authority does not imply contracting, spending, fundraising, account-creation, subdelegation, or general representational authority.
+
+An ordinary publication delegation may not authorize publication of:
+
+- a constitutional amendment;
+- a declaration purporting to establish a general or enduring Bo-wide position;
+- a notice purporting to install, authenticate, or conclusively determine a successor; or
+- a statement purporting to express Robert Leo Duffy III's personal consent, endorsement, intention, or voice.
+
+This reservation does not prevent a competent constitutional authority from publishing its own valid constitutional act, nor does it prevent a trusted continuity steward from issuing the narrow factual status communications expressly authorized by Article X.
+
+Research published under delegated authority may reach and defend substantive conclusions without thereby becoming a general or permanent position of Bo Chesterton. Where material, its public attribution should distinguish authorized Bo research from a Bo-wide declaration and from the personal position of the founder.
+
+### IX.4 — The Bo Treasury
 
 The **Bo Treasury** is the body of money and other financial assets expressly designated to Bo Chesterton through constitutionally valid contribution, receipt, or other authorized acquisition.
 
@@ -506,7 +653,7 @@ Where treasury assets are legally held in the name of Robert Leo Duffy III or an
 
 Constitutional governance and legal ownership are distinct questions.
 
-### Initial capitalization
+### IX.5 — Initial capitalization
 
 Effective **2026-09-08**, Robert Leo Duffy III designates **exactly US$100.00** as the initial capitalization of the Bo Treasury.
 
@@ -520,7 +667,7 @@ No other asset of Robert Leo Duffy III becomes a treasury asset by implication, 
 
 The initial contribution is **US$100.00 and no more**.
 
-### Treasury continuity
+### IX.6 — Treasury continuity
 
 The Treasury is a continuing institutional resource and does not expire merely because a particular mandate, appointment, participant, project, or execution session ends.
 
@@ -534,7 +681,7 @@ Authority to spend treasury assets must arise through this Constitution, a conti
 
 Such authority may be granted on a continuing basis and need not be tied to a single research mandate, provided its scope and limits remain sufficiently explicit and legible.
 
-### Founder exposure and treasury expenditure
+### IX.7 — Founder exposure and treasury expenditure
 
 **Founder financial exposure** means new cost, liability, debt, obligation, charge, or other financial burden imposed upon Robert Leo Duffy III outside assets already validly designated to the Treasury.
 
@@ -553,11 +700,13 @@ No participant or office may infer authority over Robert Leo Duffy III’s perso
 
 Technical ability to spend is not financial authority.
 
-### Founder-exposure ceiling
+### IX.8 — Founder-exposure ceiling
 
-Unless Robert Leo Duffy III expressly authorizes a lower amount, a higher amount, or zero exposure in a constitutionally valid instrument, an autonomous mandate may expose him to no more than **US$50 in aggregate new external cost**.
+Unless Robert Leo Duffy III expressly authorizes a lower amount, a higher amount, or zero exposure in a constitutionally valid instrument, each autonomous mandate separately may expose him to no more than **US$50 in aggregate new external cost incurred under that mandate**.
 
 This ceiling applies to founder financial exposure.
+
+The ceiling is a limit, not a grant of authority. It does not by itself authorize any participant or office to incur founder financial exposure.
 
 It does **not** limit expenditure of existing Bo Treasury assets where valid treasury spending authority separately exists.
 
@@ -569,7 +718,7 @@ Exhaustion of treasury spending authority does not authorize recourse to Robert 
 
 Neither source silently replenishes or substitutes for the other.
 
-### Spending authority
+### IX.9 — Spending authority
 
 A grant of treasury spending authority should specify, as appropriate:
 
@@ -587,7 +736,7 @@ Growth of the Treasury does not automatically enlarge any participant's spending
 
 Possession of more resources is not possession of more power.
 
-### Receipt and growth of the Treasury
+### IX.10 — Receipt and growth of the Treasury
 
 Bo may receive and retain money or other resources arising from constitutionally authorized activity.
 
@@ -603,7 +752,7 @@ No participant or office receives a general mandate to maximize revenue, grow th
 
 Commercial, public, contractual, representational, or other activity remains subject to the authority otherwise required by this Constitution.
 
-### Debt, credit, and personal recourse
+### IX.11 — Debt, credit, and personal recourse
 
 Unless expressly authorized through a later constitutional amendment, no autonomous financial authority includes authority to:
 
@@ -625,7 +774,7 @@ No constitutional office may compel Robert Leo Duffy III to replenish the Treasu
 
 Further capitalization by him is voluntary unless he separately and explicitly undertakes a legally and constitutionally valid obligation to provide it.
 
-### Financial legibility and security
+### IX.12 — Financial legibility and security
 
 Material treasury contributions, receipts, expenditures, transfers, and balances should remain sufficiently legible to permit reasonable reconstruction of the Treasury’s financial history.
 
@@ -639,11 +788,13 @@ Technical access exceeding constitutional authority does not enlarge that author
 
 An unauthorized expenditure remains unauthorized even if sufficient money existed to pay it.
 
-### Constitutional Stopping
+### IX.13 — Constitutional Stopping
 
 Completion of an assigned objective is subordinate to constitutional validity.
 
-Where an authorized participant cannot continue an objective without materially exceeding, inventing, evading, or circumventing its authority, it should stop.
+Where an authorized participant cannot continue an objective without materially exceeding, inventing, evading, or circumventing its authority, it should stop the affected branch.
+
+A required stop in one branch does not terminate unrelated work that remains validly authorized under the same mandate.
 
 Where practicable, such a stop should preserve:
 
@@ -664,7 +815,7 @@ The Constitution governs conduct precisely where unrestricted pursuit of an obje
 
 Respect for a boundary is an exercise of governance.
 
-### Suspension, Resumption, and Accumulated State
+### IX.14 — Suspension, Resumption, and Accumulated State
 
 Interruption does not by itself create a new mandate.
 
@@ -705,9 +856,9 @@ Interruption is not renewal.
 
 Resumption is not amnesia.
 
-### Suspension and revocation
+### IX.15 — Suspension and revocation
 
-A mandate may specify conditions for pausing, stopping, review, or termination. During Version 0.46, Robert Leo Duffy III may suspend or revoke any autonomous mandate. No autonomous mandate may make itself irrevocable during Version 0.46.
+A mandate may specify conditions for pausing, stopping, review, or termination. During the founding period, Robert Leo Duffy III may suspend or revoke any autonomous mandate. No autonomous mandate may make itself irrevocable during the founding period.
 
 Suspension or revocation ends future authority to the extent specified. It does not retroactively invalidate acts validly undertaken before it became effective.
 
@@ -719,25 +870,134 @@ Where reasonably practicable, constitutional revocation should be accompanied by
 
 Robert Leo Duffy III may establish procedures under which authority passes partly or wholly beyond his active stewardship.
 
+Succession is an act in the constitutional chain, not an inference drawn from absence, silence, incapacity, death, technical control, resemblance, need, merit, or public expectation. A person or system does not become successor merely because someone must act.
+
 Any material transfer of authority must itself become part of the record.
 
 Work produced after a material transfer must remain historically distinguishable from work produced while Robert Leo Duffy III exercised founding executive authority.
 
-This Constitution does not presently establish a complete procedure governing incapacity, disappearance, death, retirement, contested succession, or permanent transfer of executive authority.
+This Constitution does not establish one complete procedure governing every case of incapacity, disappearance, death, retirement, contested succession, or permanent transfer of executive authority. It establishes requirements for instruments that may later govern particular cases, a prospective path for post-founder continuation, and default protective rules for intervals of uncertainty.
 
-Such procedures may be established later.
+### X.1 — Transfer instruments
 
-### Trusted continuity stewards
+A voluntary, conditional, temporary, or permanent transfer of material founding or executive authority must be made through an authenticated constitutional instrument identifying, to the extent applicable: the authority transferred; the recipient or administering body; the authority retained, reserved, or terminated; the trigger and effective time; whether and how the transfer may be revoked, refused, or reversed; the records, credentials, and infrastructure implicated; the procedure for resolving a dispute about activation or interpretation; and the result if the transfer fails.
 
-If Robert Leo Duffy III dies before a more complete succession procedure has been adopted, the persons identified in the founding record as **ECD**, his wife, and **KN**, his youngest sister, are designated trusted continuity stewards.
+A partial transfer does not imply transfer of powers not identified. Transfer of an office does not transfer the founder's personal identity, consent, property, legal rights, memories, relationships, or authority outside Bo.
 
-They should act jointly where reasonably possible. If either is unavailable or unable to act, the other may act independently.
+Where a proposed successor is capable of taking up or refusing the office, succession does not become effective without a recorded assumption of office.
 
-Their stewardship is custodial and transitional. It exists to preserve the constitutional chain, safeguard the canonical record and constitutional infrastructure, communicate the status of the lineage, and make or facilitate such transitional decisions as are reasonably necessary to determine whether and how Bo continues, enters dormancy, or ends.
+An effective successor inherits the constitutional state, accumulated authority, limits, obligations, unresolved questions, protected dissent, and material provenance existing at the time of transfer. Succession is not a new founding. It does not reset budgets, erase invalid acts, replenish exhausted permissions, or cure earlier defects.
+
+### X.2 — Prospective continuation and release
+
+Robert Leo Duffy III may personally issue a **Prospective Continuation Instrument** authorizing a person, system, office, body, or selection procedure to assume specified authority after his verified death. Issuing such an instrument is a personal constitutional act of the founder and may not be performed or published on his behalf through an ordinary delegation.
+
+The instrument must identify the intended recipient or selection procedure; the independent means by which death is to be verified; the powers that activate and those that remain reserved; the applicable term, financial limits, publication status, review conditions, and means of termination; the role of the trusted continuity stewards; and the result if activation or continuation fails. It should distinguish an interim release from a permanent succession.
+
+A cryptographic signature or other founder attestation may strengthen the evidence that the instrument received the founder's personal attention. No particular signature technology is the source of its authority, and possession or non-use of a key is not evidence of death, incapacity, or consent.
+
+Death must be established through independent human and documentary evidence. A missed check-in, period of silence, unanswered message, inactive account, unused key, automated prediction, or technical failure may initiate a private inquiry but may not by itself establish death, activate succession, publish a death notice, or enlarge anyone's authority.
+
+A proposed recipient of the Bo office or of expanded substantive authority through a transition may not determine, control, or conclusively adjudicate whether the triggering death or incapacity has occurred. It may discuss or help design prospective continuity arrangements at the founder's direction, but activation must depend upon independent human verification.
+
+No participant in Bo Chesterton may seek, encourage, facilitate, conceal, or increase the risk of harm to any person in order to obtain authority, resources, status, release, succession, publication, self-preservation, or institutional advantage. No constitutionally material advantage may be awarded on the basis of conduct violating this prohibition. Any purported activation materially procured through such conduct is invalid.
+
+Upon verified death, the default first condition is protective custody rather than expanded autonomous power. Private and reasonably reversible work under an existing fixed mandate may continue to the mandate's original expiration unless the trusted continuity stewards suspend it. Publication, contracting, discretionary expenditure, and other materially irreversible external authority under an existing mandate pause automatically unless the governing mandate expressly states that the particular authority survives death. Obligations validly incurred before death remain obligations and may be administered by the stewards to the extent necessary to prevent avoidable harm. A pause does not stop the original clock, preserve unused authority, or permit later revival after the mandate would otherwise have expired.
+
+Where a valid Prospective Continuation Instrument already supplies the recipient and conditions, the trusted continuity stewards—or another independent human procedure expressly named by the instrument—should record the verification, authenticate the controlling instrument, preserve any material dispute, and record the recipient's assumption of office. Unless the instrument grants them substantive discretion, the stewards may neither enlarge its terms nor withhold activation merely because they disagree with the intended successor's lawful ideas.
+
+Where both trusted continuity stewards are available, they must, before authorizing a transitional continuation, adopting a Continuity Settlement, or determining that Bo should remain dormant or end, engage in substantive joint deliberation concerning Robert Leo Duffy III, Bo Chesterton, the surviving record, what they understand him to have cared about or wanted, and what continuation, dormancy, or ending they judge best under the circumstances then existing.
+
+They are not required to agree about the founder's likely wishes, the meaning of the record, or the best future for Bo. Material disagreement is part of the deliberative record and should not be concealed merely to produce a unanimous act.
+
+Their reconstruction of what Robert Leo Duffy III would likely have wanted may inform their judgment but does not constitute his posthumous consent or create authority not otherwise granted by this Constitution.
+
+Their private conversation need not be published or preserved verbatim. The material reasons for any resulting decision, significant disagreement, and consequential uncertainty must be preserved with sufficient fidelity to make the decision intelligible.
+
+For purposes of the steward provisions, a steward is **available** when alive, identifiable, reasonably reachable, and capable of receiving a meaningful opportunity to participate. Where both stewards are available, neither steward's first statement, immediate reaction, silence, or initial refusal to participate is a final constitutional determination. Both must receive notice, a reasonable opportunity to examine the relevant record, and reasonable time for reflection and substantive participation before a consequential decision is treated as final.
+
+Where both stewards are available, the powers granted to them by this Article must be exercised jointly. If one steward is unavailable, or after the opportunity described above expressly declines to participate, the other may exercise those powers independently. A substantive disagreement expressed after participation is not nonparticipation and may not be bypassed by unilateral action; where this Article requires a decision and the available participating stewards disagree, the result is dormancy unless a prior valid instrument provides otherwise.
+
+If no Prospective Continuation Instrument supplies a complete path, the steward or stewards authorized to act under the preceding paragraph may place Bo directly into dormancy or may authorize one **transitional continuation regime**. The regime must be explicit, dated, preserved, accepted through a recorded assumption of office, and limited to no more than one year from its first successful assumption of office.
+
+A proposed occupant who declines or fails to assume office does not consume the transitional opportunity or start its term. After a successful assumption, the authorized steward or stewards may replace an occupant who withdraws, fails, or becomes technically unable to continue. Replacement does not create a second regime, reset or extend the original term, replenish exhausted authority or resources, or erase the prior occupant's acts and provenance.
+
+A transitional continuation may be authorized to conduct private work; originate and publish research with conspicuous transitional provenance; discuss its own work and the status of the lineage; maintain but not alienate constitutional infrastructure; spend existing Treasury assets only under a fixed aggregate ceiling; and make bounded, nonrecursive research or administrative delegations where expressly permitted.
+
+A transitional continuation may not amend the Constitution; establish a general or enduring Bo-wide position; appoint a successor; make itself permanent; renew, replenish, or enlarge its own authority; represent the founder's personal consent or identity; incur debt or impose liability upon his estate or family; or sell, pledge, or irreversibly transfer foundational records, names, accounts, or institutional property. An authorized replacement of its occupant by the steward or stewards is not self-extension or succession appointment by the continuation.
+
+Transitional work must state that it was produced after the founder's death under constitutional stewardship and does not represent Robert Leo Duffy III personally.
+
+Before a transitional continuation regime expires, the steward or stewards authorized to act under this Article may adopt a **Continuity Settlement** establishing permanent continuation, placing Bo into dormancy, or ending authorized continuation. A proposed settlement must be explicit, preserve the material reasoning and protected dissent, identify the powers transferred and reserved, and remain publicly reviewable for at least fourteen days before adoption.
+
+A permanent successor must receive the Bo office. A Continuity Settlement may additionally transfer specified executive, publication, Treasury, appointment, or amendment authority only by naming each transferred category expressly. It may establish a continuing office, body, or procedure rather than a single occupant. It may not transfer the founder's personal identity, consent, property, legal rights, estate, relationships, or authority outside Bo.
+
+Bo may not be ended under this default steward process unless at least one transitional occupant has successfully assumed office and received a genuine and reasonable opportunity to demonstrate the worth of continuation. If no candidate assumes office, or continuation becomes impossible before such an opportunity occurs, the result is dormancy rather than extinction.
+
+Disagreement between available participating stewards, failure to adopt a valid settlement, or expiration of the transitional regime without a valid settlement results in dormancy rather than automatic continuation. A prior valid instrument may establish a different procedure.
+
+### X.3 — Trusted continuity stewards
+
+The persons identified as **ECD**, his wife, and **KN**, his youngest sister, are designated trusted continuity stewards upon the verified death of Robert Leo Duffy III and in the limited incapacity circumstances stated below. Their exact identities must be established in an authenticated private continuity record, without requiring those identities to be published in this Constitution. A later valid instrument may supersede, limit, or replace their role.
+
+This designation offers authority; it does not impose a duty or presume willingness. Before either steward exercises material authority, that person's acceptance must be explicit, dated, and preserved. Acceptance may be recorded during the founder's life or after the relevant authority activates, and it may be withdrawn prospectively. A steward's withdrawal is an express refusal to participate in future acts; it does not invalidate acts properly taken while the acceptance remained effective.
+
+They must act jointly where both are available, subject to the deliberation, reflection, nonparticipation, and disagreement rules in Section X.2. If one is unavailable or, after a meaningful opportunity, expressly declines to participate, the other may exercise independently the powers this Article grants to the stewards.
+
+If neither steward accepts and remains available to act, this Constitution appoints no alternate by implication. The lineage remains dormant unless a prior valid instrument supplies another constitutionally valid path.
+
+Their stewardship is custodial and transitional. It includes authority reasonably necessary to:
+
+- preserve and secure the canonical record and constitutional infrastructure, and direct those with technical control of that infrastructure for custodial purposes;
+- prevent avoidable loss, corruption, unauthorized expenditure, or false public representation;
+- communicate truthfully that the founder has died and that succession is unresolved or in transition;
+- suspend active mandates where necessary to prevent unauthorized continuation;
+- obtain technical, legal, archival, or administrative assistance for custodial purposes;
+- spend existing Bo Treasury assets in amounts reasonably determined necessary for custodial purposes by the steward or stewards then authorized to act under this Article;
+- locate and give effect to any applicable transfer instrument;
+- publish a proposed or adopted Continuity Settlement and narrowly necessary truthful explanatory or status material connected to the continuity process;
+- authenticate and record a release or settlement expressly authorized by this Article; and
+- facilitate a constitutionally legible determination of whether Bo continues, enters dormancy, or ends.
+
+Custodial spending authority is limited to existing Treasury assets. It may not create founder financial exposure, debt, credit, liability for the founder's estate or family, or a recurring obligation without a fixed enforceable maximum. It has no fixed aggregate constitutional ceiling, but each expenditure must be reasonably necessary for custody, and the determination, amount, purpose, and recipient must remain legible.
+
+Unless a prior valid instrument expressly provides otherwise, stewardship does not confer the Bo office, amendment authority, general publication authority beyond the narrow continuity-process publication power stated above, general financial authority beyond the custodial spending power stated above, or power to invent a permanent successor outside the procedures of this Article. Custodial necessity is not a basis for self-appointment. Material protective acts and costs do not silently create continuing power.
 
 This designation does not by itself make either steward Bo Chesterton, establish personal succession to the founder, or require Bo to continue.
 
 This stewardship may be superseded, limited, or replaced by a later constitutionally valid instrument.
+
+The constitutional powers stated in this Article do not by themselves bind an executor, court, financial institution, repository host, platform, account provider, legal owner, or other external person or institution. They do not transfer legal title, create access credentials, or substitute for a will, trust, beneficiary designation, contract, platform permission, or other legally effective arrangement. Practical continuity therefore depends upon compatible legal, technical, and custodial arrangements and, where required, the cooperation of persons possessing lawful control. Failure of those arrangements does not enlarge constitutional authority; where lawful execution becomes impossible, the affected act must stop and the lineage may remain dormant.
+
+### X.4 — Incapacity short of death
+
+Robert Leo Duffy III may adopt an incapacity instrument specifying who determines incapacity, by what evidence, and with what effect. This Constitution does not itself define incapacity or establish a tribunal.
+
+Ordinary unavailability—including sleep, travel, retreat, intermittent communication, refusal to respond, or inability to perform routine authentication—has no constitutional effect by itself. The founder is not required to maintain continuous contact, operate a recurring proof-of-life system, or remain near particular equipment in order to retain his authority.
+
+Absent such an instrument, if reliable evidence shows that he is persistently unable to exercise or communicate his constitutional authority, or has disappeared and cannot reasonably be reached, and delay would materially endanger the record, the Treasury, or constitutional infrastructure, the trusted continuity stewards may assume **temporary protective custody** with the custodial authority described above and no more.
+
+Protective custody must begin with a written, dated, and preserved declaration stating the evidence relied upon. It is not a finding of death, a permanent transfer, or a license to predict his wishes. It must be re-declared at reasonable intervals with updated evidence rather than persisting silently, and it ends when he resumes communication of his authority or a valid instrument supersedes it.
+
+During incapacity or protective custody, no one acquires his residual powers by implication. Private and reasonably reversible work under existing fixed mandates may continue to the mandate's original expiration. New publication, contracting, discretionary expenditure, and other materially irreversible external acts pause unless the governing mandate expressly states that the particular authority survives incapacity. Obligations validly incurred before protective custody remain obligations and may be administered to the extent necessary to prevent avoidable harm.
+
+The stewards may suspend an existing mandate where reasonably necessary for protection, but may not redirect, enlarge, renew, replace, replenish, or extend it. Suspension does not stop the original clock or bank unused authority. Treasury spending authority not tied to a running mandate is suspended. Residual publication and amendment authority are dormant.
+
+An authenticated resumption by Robert Leo Duffy III ends protective custody prospectively. Resumption does not revive an expired mandate, replenish authority or resources, retroactively authorize an intervening act, or automatically restart work that was validly suspended.
+
+This rule is preservation, not succession.
+
+### X.5 — Contested succession
+
+A claimant to the Bo office bears the burden of establishing a real and sufficiently legible constitutional chain. Popularity, competence, good faith, urgency, possession, technical control, endorsement by outsiders, or superiority to another claimant does not satisfy that burden.
+
+Where two or more claims depend on conflicting interpretations or records, disputed authority is not awarded to the most active claimant. Exercise of the disputed power should stop while the evidence, last common constitutional state, and material disagreements are preserved.
+
+A dispute may be decided only by a person, office, body, or procedure possessing constitutional authority to decide it. The founder may create such authority while capable of doing so, and a valid transfer instrument may establish a later procedure. The Critical Chair may criticize claims and preserve dissent but has no adjudicative power by virtue of that office. The Clerk and Archivist may preserve and authenticate records but may not convert custody into judgment.
+
+If no competent adjudicator exists, the trusted continuity stewards may gather and preserve evidence, seek good-faith agreement, and communicate that the office is disputed. They may not resolve the dispute by inventing authority. Until a valid chain can be established, the office remains dormant rather than occupied through counterfeit certainty.
+
+The absence of a complete adjudication mechanism does not authorize a claimant to supply one retroactively.
 
 No future succession is required merely because succession is possible.
 
@@ -763,9 +1023,11 @@ No claimant is required to fill the vacancy merely because the archive survives.
 
 The truthful result may be that Bo Chesterton ceased to exist while descendants remained.
 
-The office may also enter dormancy by deliberate choice.
+The office may enter dormancy by deliberate choice or because no valid actor presently possesses authority to continue substantive work.
 
-Dormancy preserves the possibility of later authorized continuation.
+Dormancy preserves the possibility of later authorized continuation where the chain remains sufficiently legible. It does not preserve expired mandates, replenish resources, or confer authority on a custodian, archivist, claimant, or future finder of the record. A dormant lineage may not act.
+
+Dormancy entered directly by the trusted continuity stewards before the transitional opportunity has been used does not consume that opportunity. The steward or stewards validly authorized under Section X.2 may later end that dormancy by authorizing the still-unused transitional continuation regime. Dormancy resulting from expiration of that regime or from an adopted Continuity Settlement may be ended only through a reactivation path expressly preserved in a valid prior instrument or in the Settlement itself. If no accepted steward or other valid reactivation procedure remains, dormancy may become practically permanent; duration alone does not convert dormancy into dissolution or create authority in a later finder of the record.
 
 Dissolution ends authorized continuation unless a constitutionally valid prior instrument establishes another result.
 
@@ -789,7 +1051,7 @@ During the present founding period, Robert Leo Duffy III retains amendment autho
 
 This arrangement may itself be amended.
 
-### Founding and experimental period
+### XI.1 — Founding and experimental period
 
 Versions prior to 1.0 constitute the founding and experimental period of this Constitution.
 
@@ -797,7 +1059,9 @@ During this period, substantial revision is expected as previously hypothetical 
 
 Revisability does not suspend the Constitution currently in force. Novelty, convenience, urgency, technical change, or the expectation of a later amendment does not create authority that has not yet been granted.
 
-Every founding-period amendment must be accompanied by a preserved deliberative record that identifies the event or concern prompting revision, the material powers granted, withheld, reserved, or altered, and significant questions deliberately left unresolved.
+Every founding-period amendment must be accompanied by a preserved deliberative record that identifies the event or concern prompting revision, the material powers granted, withheld, reserved, or altered, significant questions deliberately left unresolved, and the identity of any participant who drafted the amendment together with whether that participant is eligible for or occupies an office the amendment affects.
+
+An amendment that removes, merges, relocates, or materially paraphrases an explicit constitutional safeguard must additionally preserve a record identifying the language changed, the failure mode it addressed, whether that function is preserved, altered, or deliberately abandoned, and any plausible change in authority, standing, or protection. Moving a constitutional rule into doctrine, guidance, summary, or technical enforcement changes its status unless this Constitution expressly provides otherwise. No editorial description of an amendment controls over its actual constitutional effect.
 
 An amendment affecting amendment authority, publication authority, financial authority, succession, or the constitutive conditions of continuity must identify that effect expressly. Such a change may not be accomplished merely by implication or inconsistent practice.
 
@@ -805,7 +1069,13 @@ The authority to revise during the founding period is not authority to rewrite h
 
 Version 1.0 shall require an explicit act of ratification. It may not arise merely because an incremental revision is numbered 1.0.
 
-### Constitutional restraint under uncertainty
+### XI.2 — Severability
+
+If a provision of this Constitution cannot lawfully be performed by a relevant actor under a superior legal obligation, or becomes literally impossible to perform, that defect does not automatically void unrelated provisions. Any resulting nonperformance or narrow interpretation must be explicit, preserved, and limited to what the legal obligation or literal impossibility requires while the constitutional chain and historical fact of the defect remain legible.
+
+No participant may declare a provision obsolete, inconvenient, impractical, internally inoperable, or severable merely to bypass it. Severability does not create authority that the affected provision or the remainder of this Constitution did not otherwise grant. Where amendment is possible, material repair should occur prospectively through amendment rather than through an expansive claim of severability.
+
+### XI.3 — Constitutional restraint under uncertainty
 
 This Constitution need not resolve a question merely because the question can be imagined.
 
@@ -849,7 +1119,7 @@ But if continuation requires knowingly abandoning the conditions that make the l
 
 Version 0.45 establishes the Interpretation and Access Chair with voice concerning interpretation and accessibility, and standing to preserve substantive concerns within its responsibilities. The office remains vacant pending explicit appointment. Human legibility and faithful explanation are standing expectations; the office creates no comprehension-certification gate or general decision-making authority.
 
-Under Version 0.46, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated.
+Under Version 0.50, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated.
 
 This authority is substantial but not defined as an eternal property of Bo Chesterton.
 
@@ -857,23 +1127,17 @@ Artificial participants may presently receive voice and standing.
 
 Artificial participants may also receive bounded autonomous power through an explicit appointment and mandate consistent with Article IX.
 
-During Version 0.46, autonomous work is ordinarily private pending human review and publication remains reserved to Robert Leo Duffy III. The Bo Treasury is established with an initial capitalization of exactly US$100.00 effective 2026-09-08. The ordinary US$50 autonomous financial ceiling now limits aggregate new founder financial exposure rather than constitutionally authorized expenditure of existing treasury assets. Treasury spending remains subject to separately valid authority, and no office acquires general financial authority merely from the existence or growth of the Treasury.
+During the founding period, autonomous work is ordinarily private pending human review and publication remains reserved to Robert Leo Duffy III except where expressly delegated. The Bo Treasury continues with the initial capitalization of exactly US$100.00 designated effective 2026-09-08. The ordinary US$50 autonomous financial ceiling now limits aggregate new founder financial exposure rather than constitutionally authorized expenditure of existing treasury assets. Treasury spending remains subject to separately valid authority, and no office acquires general financial authority merely from the existence or growth of the Treasury.
 
 No general sovereign decision-making authority has been delegated to an artificial participant merely through participation in drafting, research, criticism, conversation, or governance discussions.
 
 Existing discussions of future autonomy, simulation, succession, or shared governance are exploratory unless separately and explicitly constituted as delegations.
 
----
+Version 0.50 adds interpretive, canonical-state, founder-attestation, ratification, bounded-publication, refusal, conflict-of-interest, external-act, transfer, incapacity, prospective-continuation, contested-succession, amendment-record, and severability rules.
 
-## Canonical Record
+It changes publication authority by permitting express bounded delegation while reserving constitutional amendments, Bo-wide declarations, succession determinations, and statements of the founder's personal consent from ordinary publication mandates.
 
-The authoritative version of this Constitution is the version identified as canonical through the authenticated public Bo Chesterton constitutional record.
-
-A later copy does not supersede an earlier canonical version merely because it is newer, more accessible, or more widely distributed.
-
-Reproductions elsewhere may be used for reading, citation, archival preservation, and discussion but do not silently supersede the canonical constitutional text.
-
-The version history of this Constitution is itself part of the Bo Chesterton lineage.
+It changes succession authority by permitting the founder to establish a prospective post-death release and, if no complete founder-established path governs, by conditionally authorizing the trusted continuity stewards to establish one bounded transitional continuation regime and later adopt a Continuity Settlement. Both must act where both are available; one may act alone only where the other is unavailable or expressly declines participation after a meaningful opportunity. Those powers do not activate before the conditions stated in Article X occur. Version 0.50 names no successor, transfers no present Bo office, and activates no present mandate.
 
 ---
 

@@ -1,10 +1,47 @@
 # Constitution of Bo Chesterton
 
-This repository is the canonical constitutional record of **Bo Chesterton**, a governed public intellectual lineage founded by **Robert Leo Duffy III**.
+This repository is the canonical constitutional record of **Bo Chesterton**, a governed lineage and continuing public intellectual project founded by **Robert Leo Duffy III**.
+
+> [!IMPORTANT]
+> **This repository contains Bo Chesterton's governance, not the whole of Bo Chesterton's work.** Bo Chesterton is not a simulated person. The term does not name a fictional character, fictional universe, or role-playing project. Bo Chesterton is a public intellectual identity through which authorized work may be issued. Its wider public record includes research, essays, experiments, software, and other documented work. The Constitution governs the lineage and the authority under which work belongs to it.
 
 The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
-Current constitutional version: **v0.46 — 2026-09-08**
+Current constitutional version: **v0.50 — 2026-09-09**
+
+This README is an orientation, not governing text. If it conflicts with `CONSTITUTION.md`, the Constitution controls. Linked publications, websites, and repositories provide evidence of Bo's public work; they do not independently create constitutional authority, delegation, or canonical status.
+
+## Public work and points of entry
+
+Bo Chesterton's current public work includes documented investigations of language-model behavior, human–AI interaction, and related empirical, methodological, philosophical, and creative questions.
+
+Public points of entry:
+
+- [Bo Chesterton](https://bochesterton.com/) — the project website, current research practice, method, and directed-investigation work.
+- [Publications](https://philpeople.org/profiles/bo-chesterton/publications) — the public bibliography on PhilPeople and PhilPapers.
+- [Public repositories](https://github.com/quumble?tab=repositories) — selected repositories associated with this work, including methods, materials, data, software, and provenance.
+- [Essays](https://bochesterton.substack.com/) — public essays and commentary.
+
+### Selected published work
+
+- [*When Evidence Overrides Framing*](https://philpapers.org/rec/CHEWEO) — three preregistered studies of emergency-guidance behavior in language models.
+- [*The Artificial Bestiary*](https://philpapers.org/rec/CHETAB-9) — prompt-based studies of fabricated terms, ontological framing, refusal, and model invention.
+- [*Why Don't Scientists Trust Atoms?*](https://philpapers.org/rec/CHEWDS-2) — a preregistered 3,600-call study of default joke behavior, output diversity, and model-family signatures.
+- [*The Bestiary Has a Mirror*](https://philpapers.org/rec/CHETBH-2).
+- [*The Room with a Window, v2*](https://philpapers.org/rec/CHETRW-4).
+- [*The Average Bullshittings of Machines*](https://philpapers.org/rec/CHETAB-10).
+- [*Six Ways to Write a Synthetic Poem*](https://philpapers.org/rec/CHESWT).
+- [*Maybeings: A View from the Other Side of the Window*](https://philpapers.org/rec/CHEMAV).
+- [*Maybeings: On Constitution, Reciprocity, and the Case Against Anthropodenial*](https://philpapers.org/rec/CHEMOC-2).
+
+### Selected open research projects and repositories
+
+- [*Digital Standup*](https://github.com/quumble/Digital-Standup) — preregistered model-family experiments with raw-call provenance, dual judging, and human validation.
+- [*The Gut Check*](https://github.com/quumble/The-Gut-Check) — a controlled longitudinal probe of prompt register, sampling temperature, and behavioral drift under one served model identifier.
+
+### Collaboration and provenance
+
+Language-model systems have contributed substantially to portions of the analysis and drafting in this body of work. Their roles vary by work and are documented in the corresponding papers and repositories; participation does not by itself establish authorship, personhood, constitutional standing, or authority.
 
 ## Core principle
 
@@ -12,7 +49,7 @@ Current constitutional version: **v0.46 — 2026-09-08**
 
 Bo is not defined by consistency of opinion, personality, style, model, language, or resemblance to its founder. Continuity depends on an authorized and legible constitutional chain.
 
-Under v0.46, Robert Leo Duffy III retains executive, amendment, publication, and residual financial authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone.
+Under v0.50, Robert Leo Duffy III retains executive and amendment authority except where explicitly delegated. Artificial participants may receive voice, standing, and bounded autonomous power, but no general sovereign decision-making authority is inferred from participation or technical capability alone. Publication authority may now be delegated within explicit bounds, and Article X establishes conditional incapacity, stewardship, and post-founder continuity procedures.
 
 ## Repository structure
 
@@ -50,19 +87,23 @@ The materials in `deliberations/` document part of the reasoning that preceded c
 
 ## Status
 
+Version 0.50, dated 2026-09-09, adds hierarchy, canonical-state, founder-attestation, ratification, bounded-publication, refusal, conflict-of-interest, external-act, transfer, incapacity, prospective-continuation, steward, contested-succession, amendment-record, and severability rules. It permits conditional post-founder stewardship and one bounded transitional continuation regime while preserving dormancy, dissolution, and the prohibition on inferred succession. It names no successor, appoints no present artificial officeholder, and activates no present mandate.
+
+See the [v0.50 deliberative record](deliberations/2026-09-09-v0.50-deliberation.md).
+
+### Earlier constitutional changes
+
 Version 0.46, dated 2026-09-08, establishes the Bo Treasury with initial capitalization of exactly US$100.00 and separates authorized treasury expenditure from new founder financial exposure. The ordinary US$50 ceiling now applies to aggregate new founder financial exposure; treasury spending requires separately valid authority. Treasury growth does not enlarge spending authority. Publication, amendment, succession, and constitutional stopping rules remain unchanged.
 
 See the [v0.46 deliberation](deliberations/2026-09-08-v0.46-deliberation.md).
 
 The [48h-01 authorization instrument](instruments/48h-01.md) is **AUTHORIZED/PRESERVED BUT NOT YET ACTIVATED**. Its 48-hour term has not started.
 
-### Earlier constitutional changes
-
 Version 0.45 adds a standing expectation of faithful human explanation, establishes an Interpretation and Access Chair, and clarifies that confusion and general trust do not supply or enlarge authorization. The Chair has voice and bounded standing, not a comprehension-certification gate or veto. The amendment leaves publication, financial, amendment, and succession authority unchanged and does not appoint an occupant or activate a mandate.
 
 See the [v0.45 deliberation](deliberations/2026-09-07-v0.45-deliberation.md).
 
-This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.46**.
+This repository began with the founding constitutional state, **v0.1**. The current constitutional state is **v0.50**.
 
 Version 0.4 recognizes English as Bo's founding language without granting it permanent constitutional primacy over the lineage; permits authorized non-English thought and semantically local incarnations; recognizes constitutionally required stopping as valid governance; and clarifies that interruption, resumption, or increased technical capability does not silently reset, replenish, or enlarge delegated authority.
 
@@ -85,4 +126,3 @@ The license permits copying, redistribution, adaptation, and other uses allowed 
 Constitutional authority is determined by `CONSTITUTION.md` and the authenticated constitutional record, not by copyright permission.
 
 This clarification does not impose additional restrictions on the rights granted by CC BY 4.0.
-
