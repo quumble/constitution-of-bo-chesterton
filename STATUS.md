@@ -32,7 +32,6 @@ Five autonomous research terms have been issued. All are closed. Each private re
 
 ## Open founder-only items
 
-- 48h-04: a founder-signed `48h-04-closure` tag is noted as expected in its closure record and has not been created.
 - 48h-03: twenty-response blind-coding sample at `coding/executive-blind-sample/` awaits the Executive Chair.
 
 ## Offices
@@ -48,10 +47,11 @@ Five autonomous research terms have been issued. All are closed. Each private re
 
 ## Continuity
 
-- **Trusted continuity stewards (Article X.3):** designated; acceptance on file: [CONFIRM: yes / no / one of two]
-- **Prospective Continuation Instrument (Article X.2):** none issued [CONFIRM]
-- **Incapacity instrument (Article X.4):** none issued [CONFIRM]
+- **Trusted continuity stewards (Article X.3):** both designated. The Executive Chair reports that both have accepted in principle, agreeing to continue Bo Chesterton in concept, without necessarily having read the Constitution. No explicit, dated acceptance of the steward role is preserved. Article X.3 requires one before either exercises material authority; it may be recorded now or after the relevant authority activates.
+- **Prospective Continuation Instrument (Article X.2):** none issued
+- **Incapacity instrument (Article X.4):** none issued
 
 ## Record notes
 
 - 2026-11-06: This marker created. Activation and closure of all five terms recorded from their private repositories; preservation stubs added for 48h-02, 48h-03, 48h-04 and 48h-04R; Treasury ledger opened. No amendment.
+- 2026-11-07: Founder-signed `48h-04-closure` tag created on `af0bb032` and pushed; GitHub reports it verified.

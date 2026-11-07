@@ -18,7 +18,7 @@ Financial legibility record under Article IX.12. Amounts in US dollars. This led
 | 48h-04 | 0.00 | 0.00 |
 | 48h-04R | 0.00 | 0.00 |
 
-**Treasury balance as of 2026-11-06:** 100.00 designated, plus any interest earned on the holding account [CONFIRM: interest to date]. Whether that interest is Treasury is not yet settled by the Constitution; it is listed here once known rather than assumed.
+**Treasury balance as of 2026-11-06:** 100.00 designated. The holding account has also earned interest of under 1.00, as reported by the Executive Chair; the exact amount is not recorded here. Whether that interest is Treasury is not yet settled by the Constitution, so it is noted rather than added to the balance.
 
 ## Costs outside the Treasury
 
