@@ -9,6 +9,8 @@ The governing text is [`CONSTITUTION.md`](CONSTITUTION.md).
 
 Current constitutional version: **v0.50 — 2026-09-09**
 
+Current state of instruments, offices, and the Treasury: [`STATUS.md`](STATUS.md).
+
 This README is an orientation, not governing text. If it conflicts with `CONSTITUTION.md`, the Constitution controls. Linked publications, websites, and repositories provide evidence of Bo's public work; they do not independently create constitutional authority, delegation, or canonical status.
 
 ## Public work and points of entry
@@ -26,7 +28,7 @@ Public points of entry:
 
 - [*When Evidence Overrides Framing*](https://philpapers.org/rec/CHEWEO) — three preregistered studies of emergency-guidance behavior in language models.
 - [*The Artificial Bestiary*](https://philpapers.org/rec/CHETAB-9) — prompt-based studies of fabricated terms, ontological framing, refusal, and model invention.
-- [*Why Don't Scientists Trust Atoms?*](https://philpapers.org/rec/CHEWDS-2) — a preregistered 3,600-call study of default joke behavior, output diversity, and model-family signatures.
+- [*Why Don't Scientist Trust Atoms?*](https://philpapers.org/rec/CHEWDS-2) — a preregistered 3,600-call study of default joke behavior, output diversity, and model-family signatures.
 - [*The Bestiary Has a Mirror*](https://philpapers.org/rec/CHETBH-2).
 - [*The Room with a Window, v2*](https://philpapers.org/rec/CHETRW-4).
 - [*The Average Bullshittings of Machines*](https://philpapers.org/rec/CHETAB-10).
@@ -97,7 +99,7 @@ Version 0.46, dated 2026-09-08, establishes the Bo Treasury with initial capital
 
 See the [v0.46 deliberation](deliberations/2026-09-08-v0.46-deliberation.md).
 
-The [48h-01 authorization instrument](instruments/48h-01.md) is **AUTHORIZED/PRESERVED BUT NOT YET ACTIVATED**. Its 48-hour term has not started.
+The [48h-01 authorization instrument](instruments/48h-01.md) was activated on 2026-09-08. It was closed early on 2026-09-09. Four further terms followed (48h-02, 48h-03, 48h-04 and 48h-04R), all now closed; their full records are held privately. See [`STATUS.md`](STATUS.md) for the current state.
 
 Version 0.45 adds a standing expectation of faithful human explanation, establishes an Interpretation and Access Chair, and clarifies that confusion and general trust do not supply or enlarge authorization. The Chair has voice and bounded standing, not a comprehension-certification gate or veto. The amendment leaves publication, financial, amendment, and succession authority unchanged and does not appoint an occupant or activate a mandate.
 
